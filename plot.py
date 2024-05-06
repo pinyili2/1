@@ -29,15 +29,18 @@ for i in AMEX+Citi+Chase+Bilt+CO:
     Airs[i]="none"
 AS=["Aer Lingus","Air Tahiti Nui", "Condor","Israel","Hainan","Icelandair","Korean Air","LATAM","Ravn Alaska","Singapore","STARLUX"]
 VA=["Air New Zealand","ANA","Hawaiian","Indigo","LATAM","SAS","Singapore","South African","Virgin Australia"]
+VAs=["Qatar","ANA","Hawaiian","Air Canada","United","Singapore","Virgin Atlantic",'Etihad',"South African",'Hainan',"HongKong","Capital","Tianjin","LINK","PELICAN"]
+JB=["Hawaiian","Icelandair","JSX","Qatar","Silver","Singapore","South African"]
+JAL=["S7",'Srilankan',"AirFrance","Bangkok",'China Eastern','Emirates',"Hawaiian","Korean Air","LATAM","Vistara","Jetstar"]
 
 g= nx.Graph()
 Colors={"A":"#6676F5","B":"#F5F46D","Ch":"#64D5D9","Ci":"#E498F5","Co":"#D16F68"}
-g.add_node('A', label='AMEX MR',color=Colors["A"],size=15,shape="box")
-g.add_node("B",label="Bilt",color=Colors["B"],size=15,shape="box")
-g.add_node('Ci', label='Citi',color=Colors["Ci"],size=15,shape="box")
-g.add_node('Ch', label='Chase',color=Colors["Ch"],size=15,shape="box")
-g.add_node("Co",label="Capital One",color=Colors["Co"],size=15,shape="box")
-
+fig="diamond"
+g.add_node('A', label='AMEX MR',color=Colors["A"],size=15,shape=fig)
+g.add_node("B",label="Bilt",color=Colors["B"],size=15,shape=fig)
+g.add_node('Ci', label='Citi',color=Colors["Ci"],size=15,shape=fig)
+g.add_node('Ch', label='Chase',color=Colors["Ch"],size=15,shape=fig)
+g.add_node("Co",label="Capital One",color=Colors["Co"],size=15,shape=fig)
 
 g.add_nodes_from(star,group="star")
 g.add_nodes_from(one,group="one")
@@ -60,6 +63,13 @@ for i in range(len(AS)):
 
 for i in range(len(VA)):
   g.add_edge("Virgin Atlantic",VA[i],color="lightgray")
+
+for i in range(len(VAs)):
+  g.add_edge("Virgin Australia",VAs[i],color="lightgray")
+for i in range(len(JB)):
+  g.add_edge("JetBlue",JB[i],color="lightgray")
+for i in range(len(JAL)):
+  g.add_edge("JAL",JAL[i],color="lightgray")
 
 for i in AMEX:
   g.add_edge("A",i,color=Colors["A"])
@@ -86,4 +96,4 @@ h=net.Network(notebook=True)
 h.repulsion(node_distance=120, central_gravity=0.0, spring_length=100, spring_strength=0.01, damping=0.09)
 h.from_nx(g)
 h.show_buttons(filter_=["physics"])
-h.show("example.html")
+h.show("flights.html")
