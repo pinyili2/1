@@ -9,16 +9,16 @@ import networkx as nx
 star=["Aegean","Air Canada","Air China","Air India","Air New Zealand", "ANA", "ASIANA","Austrian","Lifemiles","Brussels","Copa","CROATIA","EGYPTAIR","Ethiopian","EVA","LOT Polish","Lufthansa","SAS","Shenzhen","Singapore","Swiss","TAP","Thai","Turkish","United"]
 one=["Alaska","American","British","CATHAY","FINNAIR","Iberia","JAL","Malaysia","Qantas","Qatar","Royal Air Morac","Royal Jordanian","Srilankan","FIJI","OMAN"]
 sky=["AeroArgentina","AeroMexico","AirEuropa","AirFrance","China Airlines","China Eastern","CZECH","DELTA","Garuda","ITA","Kenya","KLM","Korean","MEA","Saudia","TARDM","Vietnam","Virgin Atlantic","XIAMENAIR"]
-hotel=["Hyatt","IHG","Hilton","Choice","Wyndham","Accor"]
+#hotel=["Hyatt","IHG","Hilton","Choice","Wyndham","Accor"]
 
 #Credit card
-AMEX=["M","Hilton","Choice","AirFrance","KLM","Air Canada","ANA","Lifemiles","British","Virgin Atlantic","Aer Lingus","AeroMexico","CATHAY","DELTA","Emirates","Hawaiian","Iberia","JetBlue","Qantas","Qatar","Singapore"]
-Citi=["Choice","Wyndham","Accor","AeroMexico","Lifemiles","CATHAY","Emirates","Etihad","EVA","AirFrance","KLM","JetBlue","Qantas","Qatar","Singapore","Thai","Turkish","Virgin Atlantic"]
-Chase=["Hyatt","IHG","M","Aer Lingus","Air Canada","British","AirFrance","KLM","Iberia","Singapore","JetBlue","Southwest","United","Virgin Atlantic"]
-Bilt=["Hyatt","IHG","M","Alaska","American","AirFrance","KLM","Air Canada","United","Virgin Atlantic","Turkish","British","CATHAY","Lifemiles","Iberia","Aer Lingus","Emirates","Hawaiian"]
-CO=["Choice","Wyndham","Accor","AirFrance","KLM","Virgin Atlantic","AeroMexico","Air Canada","CATHAY","Lifemiles","British","Emirates","Etihad","EVA","FINNAIR","Qantas","TAP","Singapore","Turkish","Lifemiles","British","CATHAY",]
+AMEX=["M","AirFrance","KLM","Air Canada","ANA","Lifemiles","British","Virgin Atlantic","Aer Lingus","AeroMexico","CATHAY","DELTA","Emirates","Hawaiian","Iberia","JetBlue","Qantas","Qatar","Singapore"]
+Citi=["AeroMexico","Lifemiles","CATHAY","Emirates","Etihad","EVA","AirFrance","KLM","JetBlue","Qantas","Qatar","Singapore","Thai","Turkish","Virgin Atlantic"]
+Chase=["M","Aer Lingus","Air Canada","British","AirFrance","KLM","Iberia","Singapore","JetBlue","Southwest","United","Virgin Atlantic"]
+Bilt=["M","Alaska","American","AirFrance","KLM","Air Canada","United","Virgin Atlantic","Turkish","British","CATHAY","Lifemiles","Iberia","Aer Lingus","Emirates","Hawaiian"]
+CO=["AirFrance","KLM","Virgin Atlantic","AeroMexico","Air Canada","CATHAY","Lifemiles","British","Emirates","Etihad","EVA","FINNAIR","Qantas","TAP","Singapore","Turkish","Lifemiles","British","CATHAY",]
 Marriott=["Aegean","Aer Lingus","AeroMexico","Air Canada","Air China","AirFrance","KLM","Alaska","American","ANA","ASIANA","China Southern","Copa","DELTA","Emirates","Etihad","FRONTIER","Hainan","Hawaiian","Iberia","InterMiles","JAL","Korean","LATAM","Qantas","Qatar","Saudia","Singapore","Southwest","TAP","Thai","Turkish","United","Virgin Atlantic","Virgin Australia","Vueling"]
-W=["Lifemiles","AirFrance","KLM","British","Iberia","Aer Lingus","Choice"]
+W=["Lifemiles","AirFrance","KLM","British","Iberia","Aer Lingus"]
 
 AS=["Aer Lingus","Air Tahiti Nui", "Condor","Israel","Hainan","Icelandair","Korean","LATAM","Ravn Alaska","Singapore","STARLUX"]
 VA=["Air New Zealand","ANA","Hawaiian","Indigo","LATAM","SAS","Singapore","South African","Virgin Australia"]
@@ -43,7 +43,8 @@ g.add_node("Aer Lingus",group="alone")
 g.add_nodes_from(star,group="star")
 g.add_nodes_from(one,group="one")
 g.add_nodes_from(sky,group="sky")
-g.add_nodes_from(hotel,group="hotel")
+
+#g.add_nodes_from(hotel,group="hotel")
 
 for i in range(len(star)-1):
   for j in range(i+1,len(star)):
