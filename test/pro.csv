@@ -1,0 +1,702 @@
+A AirFrance {'color': '#6676F5', 'width': 1}
+A KLM {'color': '#6676F5', 'width': 1}
+A Air Canada {'color': '#6676F5', 'width': 1}
+A ANA {'color': '#6676F5', 'width': 1}
+A Lifemiles {'color': '#6676F5', 'width': 1}
+A British {'color': '#6676F5', 'width': 1}
+A Virgin Atlantic {'color': '#6676F5', 'width': 1}
+A Aer Lingus {'color': '#6676F5', 'width': 1}
+A AeroMexico {'color': '#6676F5', 'width': 1}
+A CATHAY {'color': '#6676F5', 'width': 1}
+A DELTA {'color': '#6676F5', 'width': 1}
+A Emirates {'color': '#6676F5', 'width': 1}
+A Hawaiian {'color': '#6676F5', 'width': 1}
+A Iberia {'color': '#6676F5', 'width': 1}
+A JetBlue {'color': '#6676F5', 'width': 1}
+A Qantas {'color': '#6676F5', 'width': 1}
+A Qatar {'color': '#6676F5', 'width': 1}
+A Singapore {'color': '#6676F5', 'width': 1}
+B Alaska {'color': '#F5F46D', 'width': 1}
+B American {'color': '#F5F46D', 'width': 1}
+B AirFrance {'color': '#F5F46D', 'width': 1}
+B KLM {'color': '#F5F46D', 'width': 1}
+B Air Canada {'color': '#F5F46D', 'width': 1}
+B United {'color': '#F5F46D', 'width': 1}
+B Virgin Atlantic {'color': '#F5F46D', 'width': 1}
+B Turksih {'color': '#F5F46D', 'width': 1}
+B British {'color': '#F5F46D', 'width': 1}
+B CATHAY {'color': '#F5F46D', 'width': 1}
+B Lifemiles {'color': '#F5F46D', 'width': 1}
+B Iberia {'color': '#F5F46D', 'width': 1}
+B Aer Lingus {'color': '#F5F46D', 'width': 1}
+B Emirates {'color': '#F5F46D', 'width': 1}
+B Hawaiian {'color': '#F5F46D', 'width': 1}
+Ci AeroMexico {'color': '#E498F5', 'width': 1}
+Ci Lifemiles {'color': '#E498F5', 'width': 1}
+Ci CATHAY {'color': '#E498F5', 'width': 1}
+Ci Emirates {'color': '#E498F5', 'width': 1}
+Ci Etihad {'color': '#E498F5', 'width': 1}
+Ci EVA {'color': '#E498F5', 'width': 1}
+Ci AirFrance {'color': '#E498F5', 'width': 1}
+Ci KLM {'color': '#E498F5', 'width': 1}
+Ci JetBlue {'color': '#E498F5', 'width': 1}
+Ci Qantas {'color': '#E498F5', 'width': 1}
+Ci Qatar {'color': '#E498F5', 'width': 1}
+Ci Singapore {'color': '#E498F5', 'width': 1}
+Ci Thai {'color': '#E498F5', 'width': 1}
+Ci Turksih {'color': '#E498F5', 'width': 1}
+Ci Virgin Atlantic {'color': '#E498F5', 'width': 1}
+Ch Aer Lingus {'color': '#64D5D9', 'width': 1}
+Ch Air Canada {'color': '#64D5D9', 'width': 1}
+Ch British {'color': '#64D5D9', 'width': 1}
+Ch AirFrance {'color': '#64D5D9', 'width': 1}
+Ch KLM {'color': '#64D5D9', 'width': 1}
+Ch Iberia {'color': '#64D5D9', 'width': 1}
+Ch Singapore {'color': '#64D5D9', 'width': 1}
+Ch JetBlue {'color': '#64D5D9', 'width': 1}
+Ch Southwest {'color': '#64D5D9', 'width': 1}
+Ch United {'color': '#64D5D9', 'width': 1}
+Ch Virgin Atlantic {'color': '#64D5D9', 'width': 1}
+Co AirFrance {'color': '#D16F68', 'width': 1}
+Co KLM {'color': '#D16F68', 'width': 1}
+Co Virgin Atlantic {'color': '#D16F68', 'width': 1}
+Co AeroMexico {'color': '#D16F68', 'width': 1}
+Co Air Canada {'color': '#D16F68', 'width': 1}
+Co CATHAY {'color': '#D16F68', 'width': 1}
+Co Lifemiles {'color': '#D16F68', 'width': 1}
+Co British {'color': '#D16F68', 'width': 1}
+Co Emirates {'color': '#D16F68', 'width': 1}
+Co Etihad {'color': '#D16F68', 'width': 1}
+Co EVA {'color': '#D16F68', 'width': 1}
+Co FINAIR {'color': '#D16F68', 'width': 1}
+Co Qantas {'color': '#D16F68', 'width': 1}
+Co TAP {'color': '#D16F68', 'width': 1}
+Co Singapore {'color': '#D16F68', 'width': 1}
+Co Turksih {'color': '#D16F68', 'width': 1}
+Aegean Air Canada {'color': 'lightgray', 'width': 1}
+Aegean Air China {'color': 'lightgray', 'width': 1}
+Aegean Air India {'color': 'lightgray', 'width': 1}
+Aegean Air New Zealand {'color': 'lightgray', 'width': 1}
+Aegean ANA {'color': 'lightgray', 'width': 1}
+Aegean ASIANA {'color': 'lightgray', 'width': 1}
+Aegean Austrian {'color': 'lightgray', 'width': 1}
+Aegean Lifemiles {'color': 'lightgray', 'width': 1}
+Aegean Brussels {'color': 'lightgray', 'width': 1}
+Aegean Copa {'color': 'lightgray', 'width': 1}
+Aegean CROATIA {'color': 'lightgray', 'width': 1}
+Aegean EGYPTAIR {'color': 'lightgray', 'width': 1}
+Aegean Ethiopian {'color': 'lightgray', 'width': 1}
+Aegean EVA {'color': 'lightgray', 'width': 1}
+Aegean LOT Polish {'color': 'lightgray', 'width': 1}
+Aegean Lufthansa {'color': 'lightgray', 'width': 1}
+Aegean SAS {'color': 'lightgray', 'width': 1}
+Aegean Shenzhen {'color': 'lightgray', 'width': 1}
+Aegean Singapore {'color': 'lightgray', 'width': 1}
+Aegean Swiss {'color': 'lightgray', 'width': 1}
+Aegean TAP {'color': 'lightgray', 'width': 1}
+Aegean Thai {'color': 'lightgray', 'width': 1}
+Aegean Turksih {'color': 'lightgray', 'width': 1}
+Aegean United {'color': 'lightgray', 'width': 1}
+Air Canada Air China {'color': 'lightgray', 'width': 1}
+Air Canada Air India {'color': 'lightgray', 'width': 1}
+Air Canada Air New Zealand {'color': 'lightgray', 'width': 1}
+Air Canada ANA {'color': 'lightgray', 'width': 1}
+Air Canada ASIANA {'color': 'lightgray', 'width': 1}
+Air Canada Austrian {'color': 'lightgray', 'width': 1}
+Air Canada Lifemiles {'color': 'lightgray', 'width': 1}
+Air Canada Brussels {'color': 'lightgray', 'width': 1}
+Air Canada Copa {'color': 'lightgray', 'width': 1}
+Air Canada CROATIA {'color': 'lightgray', 'width': 1}
+Air Canada EGYPTAIR {'color': 'lightgray', 'width': 1}
+Air Canada Ethiopian {'color': 'lightgray', 'width': 1}
+Air Canada EVA {'color': 'lightgray', 'width': 1}
+Air Canada LOT Polish {'color': 'lightgray', 'width': 1}
+Air Canada Lufthansa {'color': 'lightgray', 'width': 1}
+Air Canada SAS {'color': 'lightgray', 'width': 1}
+Air Canada Shenzhen {'color': 'lightgray', 'width': 1}
+Air Canada Singapore {'color': 'lightgray', 'width': 1}
+Air Canada Swiss {'color': 'lightgray', 'width': 1}
+Air Canada TAP {'color': 'lightgray', 'width': 1}
+Air Canada Thai {'color': 'lightgray', 'width': 1}
+Air Canada Turksih {'color': 'lightgray', 'width': 1}
+Air Canada United {'color': 'lightgray', 'width': 1}
+Air Canada Virgin Australia {'color': 'lightgray', 'width': 1}
+Air China Air India {'color': 'lightgray', 'width': 1}
+Air China Air New Zealand {'color': 'lightgray', 'width': 1}
+Air China ANA {'color': 'lightgray', 'width': 1}
+Air China ASIANA {'color': 'lightgray', 'width': 1}
+Air China Austrian {'color': 'lightgray', 'width': 1}
+Air China Lifemiles {'color': 'lightgray', 'width': 1}
+Air China Brussels {'color': 'lightgray', 'width': 1}
+Air China Copa {'color': 'lightgray', 'width': 1}
+Air China CROATIA {'color': 'lightgray', 'width': 1}
+Air China EGYPTAIR {'color': 'lightgray', 'width': 1}
+Air China Ethiopian {'color': 'lightgray', 'width': 1}
+Air China EVA {'color': 'lightgray', 'width': 1}
+Air China LOT Polish {'color': 'lightgray', 'width': 1}
+Air China Lufthansa {'color': 'lightgray', 'width': 1}
+Air China SAS {'color': 'lightgray', 'width': 1}
+Air China Shenzhen {'color': 'lightgray', 'width': 1}
+Air China Singapore {'color': 'lightgray', 'width': 1}
+Air China Swiss {'color': 'lightgray', 'width': 1}
+Air China TAP {'color': 'lightgray', 'width': 1}
+Air China Thai {'color': 'lightgray', 'width': 1}
+Air China Turksih {'color': 'lightgray', 'width': 1}
+Air China United {'color': 'lightgray', 'width': 1}
+Air India Air New Zealand {'color': 'lightgray', 'width': 1}
+Air India ANA {'color': 'lightgray', 'width': 1}
+Air India ASIANA {'color': 'lightgray', 'width': 1}
+Air India Austrian {'color': 'lightgray', 'width': 1}
+Air India Lifemiles {'color': 'lightgray', 'width': 1}
+Air India Brussels {'color': 'lightgray', 'width': 1}
+Air India Copa {'color': 'lightgray', 'width': 1}
+Air India CROATIA {'color': 'lightgray', 'width': 1}
+Air India EGYPTAIR {'color': 'lightgray', 'width': 1}
+Air India Ethiopian {'color': 'lightgray', 'width': 1}
+Air India EVA {'color': 'lightgray', 'width': 1}
+Air India LOT Polish {'color': 'lightgray', 'width': 1}
+Air India Lufthansa {'color': 'lightgray', 'width': 1}
+Air India SAS {'color': 'lightgray', 'width': 1}
+Air India Shenzhen {'color': 'lightgray', 'width': 1}
+Air India Singapore {'color': 'lightgray', 'width': 1}
+Air India Swiss {'color': 'lightgray', 'width': 1}
+Air India TAP {'color': 'lightgray', 'width': 1}
+Air India Thai {'color': 'lightgray', 'width': 1}
+Air India Turksih {'color': 'lightgray', 'width': 1}
+Air India United {'color': 'lightgray', 'width': 1}
+Air New Zealand ANA {'color': 'lightgray', 'width': 1}
+Air New Zealand ASIANA {'color': 'lightgray', 'width': 1}
+Air New Zealand Austrian {'color': 'lightgray', 'width': 1}
+Air New Zealand Lifemiles {'color': 'lightgray', 'width': 1}
+Air New Zealand Brussels {'color': 'lightgray', 'width': 1}
+Air New Zealand Copa {'color': 'lightgray', 'width': 1}
+Air New Zealand CROATIA {'color': 'lightgray', 'width': 1}
+Air New Zealand EGYPTAIR {'color': 'lightgray', 'width': 1}
+Air New Zealand Ethiopian {'color': 'lightgray', 'width': 1}
+Air New Zealand EVA {'color': 'lightgray', 'width': 1}
+Air New Zealand LOT Polish {'color': 'lightgray', 'width': 1}
+Air New Zealand Lufthansa {'color': 'lightgray', 'width': 1}
+Air New Zealand SAS {'color': 'lightgray', 'width': 1}
+Air New Zealand Shenzhen {'color': 'lightgray', 'width': 1}
+Air New Zealand Singapore {'color': 'lightgray', 'width': 1}
+Air New Zealand Swiss {'color': 'lightgray', 'width': 1}
+Air New Zealand TAP {'color': 'lightgray', 'width': 1}
+Air New Zealand Thai {'color': 'lightgray', 'width': 1}
+Air New Zealand Turksih {'color': 'lightgray', 'width': 1}
+Air New Zealand United {'color': 'lightgray', 'width': 1}
+Air New Zealand Virgin Atlantic {'color': 'lightgray', 'width': 1}
+ANA ASIANA {'color': 'lightgray', 'width': 1}
+ANA Austrian {'color': 'lightgray', 'width': 1}
+ANA Lifemiles {'color': 'lightgray', 'width': 1}
+ANA Brussels {'color': 'lightgray', 'width': 1}
+ANA Copa {'color': 'lightgray', 'width': 1}
+ANA CROATIA {'color': 'lightgray', 'width': 1}
+ANA EGYPTAIR {'color': 'lightgray', 'width': 1}
+ANA Ethiopian {'color': 'lightgray', 'width': 1}
+ANA EVA {'color': 'lightgray', 'width': 1}
+ANA LOT Polish {'color': 'lightgray', 'width': 1}
+ANA Lufthansa {'color': 'lightgray', 'width': 1}
+ANA SAS {'color': 'lightgray', 'width': 1}
+ANA Shenzhen {'color': 'lightgray', 'width': 1}
+ANA Singapore {'color': 'lightgray', 'width': 1}
+ANA Swiss {'color': 'lightgray', 'width': 1}
+ANA TAP {'color': 'lightgray', 'width': 1}
+ANA Thai {'color': 'lightgray', 'width': 1}
+ANA Turksih {'color': 'lightgray', 'width': 1}
+ANA United {'color': 'lightgray', 'width': 1}
+ANA Virgin Atlantic {'color': 'lightgray', 'width': 1}
+ANA Virgin Australia {'color': 'lightgray', 'width': 1}
+ASIANA Austrian {'color': 'lightgray', 'width': 1}
+ASIANA Lifemiles {'color': 'lightgray', 'width': 1}
+ASIANA Brussels {'color': 'lightgray', 'width': 1}
+ASIANA Copa {'color': 'lightgray', 'width': 1}
+ASIANA CROATIA {'color': 'lightgray', 'width': 1}
+ASIANA EGYPTAIR {'color': 'lightgray', 'width': 1}
+ASIANA Ethiopian {'color': 'lightgray', 'width': 1}
+ASIANA EVA {'color': 'lightgray', 'width': 1}
+ASIANA LOT Polish {'color': 'lightgray', 'width': 1}
+ASIANA Lufthansa {'color': 'lightgray', 'width': 1}
+ASIANA SAS {'color': 'lightgray', 'width': 1}
+ASIANA Shenzhen {'color': 'lightgray', 'width': 1}
+ASIANA Singapore {'color': 'lightgray', 'width': 1}
+ASIANA Swiss {'color': 'lightgray', 'width': 1}
+ASIANA TAP {'color': 'lightgray', 'width': 1}
+ASIANA Thai {'color': 'lightgray', 'width': 1}
+ASIANA Turksih {'color': 'lightgray', 'width': 1}
+ASIANA United {'color': 'lightgray', 'width': 1}
+Austrian Lifemiles {'color': 'lightgray', 'width': 1}
+Austrian Brussels {'color': 'lightgray', 'width': 1}
+Austrian Copa {'color': 'lightgray', 'width': 1}
+Austrian CROATIA {'color': 'lightgray', 'width': 1}
+Austrian EGYPTAIR {'color': 'lightgray', 'width': 1}
+Austrian Ethiopian {'color': 'lightgray', 'width': 1}
+Austrian EVA {'color': 'lightgray', 'width': 1}
+Austrian LOT Polish {'color': 'lightgray', 'width': 1}
+Austrian Lufthansa {'color': 'lightgray', 'width': 1}
+Austrian SAS {'color': 'lightgray', 'width': 1}
+Austrian Shenzhen {'color': 'lightgray', 'width': 1}
+Austrian Singapore {'color': 'lightgray', 'width': 1}
+Austrian Swiss {'color': 'lightgray', 'width': 1}
+Austrian TAP {'color': 'lightgray', 'width': 1}
+Austrian Thai {'color': 'lightgray', 'width': 1}
+Austrian Turksih {'color': 'lightgray', 'width': 1}
+Austrian United {'color': 'lightgray', 'width': 1}
+Lifemiles Brussels {'color': 'lightgray', 'width': 1}
+Lifemiles Copa {'color': 'lightgray', 'width': 1}
+Lifemiles CROATIA {'color': 'lightgray', 'width': 1}
+Lifemiles EGYPTAIR {'color': 'lightgray', 'width': 1}
+Lifemiles Ethiopian {'color': 'lightgray', 'width': 1}
+Lifemiles EVA {'color': 'lightgray', 'width': 1}
+Lifemiles LOT Polish {'color': 'lightgray', 'width': 1}
+Lifemiles Lufthansa {'color': 'lightgray', 'width': 1}
+Lifemiles SAS {'color': 'lightgray', 'width': 1}
+Lifemiles Shenzhen {'color': 'lightgray', 'width': 1}
+Lifemiles Singapore {'color': 'lightgray', 'width': 1}
+Lifemiles Swiss {'color': 'lightgray', 'width': 1}
+Lifemiles TAP {'color': 'lightgray', 'width': 1}
+Lifemiles Thai {'color': 'lightgray', 'width': 1}
+Lifemiles Turksih {'color': 'lightgray', 'width': 1}
+Lifemiles United {'color': 'lightgray', 'width': 1}
+Brussels Copa {'color': 'lightgray', 'width': 1}
+Brussels CROATIA {'color': 'lightgray', 'width': 1}
+Brussels EGYPTAIR {'color': 'lightgray', 'width': 1}
+Brussels Ethiopian {'color': 'lightgray', 'width': 1}
+Brussels EVA {'color': 'lightgray', 'width': 1}
+Brussels LOT Polish {'color': 'lightgray', 'width': 1}
+Brussels Lufthansa {'color': 'lightgray', 'width': 1}
+Brussels SAS {'color': 'lightgray', 'width': 1}
+Brussels Shenzhen {'color': 'lightgray', 'width': 1}
+Brussels Singapore {'color': 'lightgray', 'width': 1}
+Brussels Swiss {'color': 'lightgray', 'width': 1}
+Brussels TAP {'color': 'lightgray', 'width': 1}
+Brussels Thai {'color': 'lightgray', 'width': 1}
+Brussels Turksih {'color': 'lightgray', 'width': 1}
+Brussels United {'color': 'lightgray', 'width': 1}
+Copa CROATIA {'color': 'lightgray', 'width': 1}
+Copa EGYPTAIR {'color': 'lightgray', 'width': 1}
+Copa Ethiopian {'color': 'lightgray', 'width': 1}
+Copa EVA {'color': 'lightgray', 'width': 1}
+Copa LOT Polish {'color': 'lightgray', 'width': 1}
+Copa Lufthansa {'color': 'lightgray', 'width': 1}
+Copa SAS {'color': 'lightgray', 'width': 1}
+Copa Shenzhen {'color': 'lightgray', 'width': 1}
+Copa Singapore {'color': 'lightgray', 'width': 1}
+Copa Swiss {'color': 'lightgray', 'width': 1}
+Copa TAP {'color': 'lightgray', 'width': 1}
+Copa Thai {'color': 'lightgray', 'width': 1}
+Copa Turksih {'color': 'lightgray', 'width': 1}
+Copa United {'color': 'lightgray', 'width': 1}
+CROATIA EGYPTAIR {'color': 'lightgray', 'width': 1}
+CROATIA Ethiopian {'color': 'lightgray', 'width': 1}
+CROATIA EVA {'color': 'lightgray', 'width': 1}
+CROATIA LOT Polish {'color': 'lightgray', 'width': 1}
+CROATIA Lufthansa {'color': 'lightgray', 'width': 1}
+CROATIA SAS {'color': 'lightgray', 'width': 1}
+CROATIA Shenzhen {'color': 'lightgray', 'width': 1}
+CROATIA Singapore {'color': 'lightgray', 'width': 1}
+CROATIA Swiss {'color': 'lightgray', 'width': 1}
+CROATIA TAP {'color': 'lightgray', 'width': 1}
+CROATIA Thai {'color': 'lightgray', 'width': 1}
+CROATIA Turksih {'color': 'lightgray', 'width': 1}
+CROATIA United {'color': 'lightgray', 'width': 1}
+EGYPTAIR Ethiopian {'color': 'lightgray', 'width': 1}
+EGYPTAIR EVA {'color': 'lightgray', 'width': 1}
+EGYPTAIR LOT Polish {'color': 'lightgray', 'width': 1}
+EGYPTAIR Lufthansa {'color': 'lightgray', 'width': 1}
+EGYPTAIR SAS {'color': 'lightgray', 'width': 1}
+EGYPTAIR Shenzhen {'color': 'lightgray', 'width': 1}
+EGYPTAIR Singapore {'color': 'lightgray', 'width': 1}
+EGYPTAIR Swiss {'color': 'lightgray', 'width': 1}
+EGYPTAIR TAP {'color': 'lightgray', 'width': 1}
+EGYPTAIR Thai {'color': 'lightgray', 'width': 1}
+EGYPTAIR Turksih {'color': 'lightgray', 'width': 1}
+EGYPTAIR United {'color': 'lightgray', 'width': 1}
+Ethiopian EVA {'color': 'lightgray', 'width': 1}
+Ethiopian LOT Polish {'color': 'lightgray', 'width': 1}
+Ethiopian Lufthansa {'color': 'lightgray', 'width': 1}
+Ethiopian SAS {'color': 'lightgray', 'width': 1}
+Ethiopian Shenzhen {'color': 'lightgray', 'width': 1}
+Ethiopian Singapore {'color': 'lightgray', 'width': 1}
+Ethiopian Swiss {'color': 'lightgray', 'width': 1}
+Ethiopian TAP {'color': 'lightgray', 'width': 1}
+Ethiopian Thai {'color': 'lightgray', 'width': 1}
+Ethiopian Turksih {'color': 'lightgray', 'width': 1}
+Ethiopian United {'color': 'lightgray', 'width': 1}
+EVA LOT Polish {'color': 'lightgray', 'width': 1}
+EVA Lufthansa {'color': 'lightgray', 'width': 1}
+EVA SAS {'color': 'lightgray', 'width': 1}
+EVA Shenzhen {'color': 'lightgray', 'width': 1}
+EVA Singapore {'color': 'lightgray', 'width': 1}
+EVA Swiss {'color': 'lightgray', 'width': 1}
+EVA TAP {'color': 'lightgray', 'width': 1}
+EVA Thai {'color': 'lightgray', 'width': 1}
+EVA Turksih {'color': 'lightgray', 'width': 1}
+EVA United {'color': 'lightgray', 'width': 1}
+LOT Polish Lufthansa {'color': 'lightgray', 'width': 1}
+LOT Polish SAS {'color': 'lightgray', 'width': 1}
+LOT Polish Shenzhen {'color': 'lightgray', 'width': 1}
+LOT Polish Singapore {'color': 'lightgray', 'width': 1}
+LOT Polish Swiss {'color': 'lightgray', 'width': 1}
+LOT Polish TAP {'color': 'lightgray', 'width': 1}
+LOT Polish Thai {'color': 'lightgray', 'width': 1}
+LOT Polish Turksih {'color': 'lightgray', 'width': 1}
+LOT Polish United {'color': 'lightgray', 'width': 1}
+Lufthansa SAS {'color': 'lightgray', 'width': 1}
+Lufthansa Shenzhen {'color': 'lightgray', 'width': 1}
+Lufthansa Singapore {'color': 'lightgray', 'width': 1}
+Lufthansa Swiss {'color': 'lightgray', 'width': 1}
+Lufthansa TAP {'color': 'lightgray', 'width': 1}
+Lufthansa Thai {'color': 'lightgray', 'width': 1}
+Lufthansa Turksih {'color': 'lightgray', 'width': 1}
+Lufthansa United {'color': 'lightgray', 'width': 1}
+SAS Shenzhen {'color': 'lightgray', 'width': 1}
+SAS Singapore {'color': 'lightgray', 'width': 1}
+SAS Swiss {'color': 'lightgray', 'width': 1}
+SAS TAP {'color': 'lightgray', 'width': 1}
+SAS Thai {'color': 'lightgray', 'width': 1}
+SAS Turksih {'color': 'lightgray', 'width': 1}
+SAS United {'color': 'lightgray', 'width': 1}
+SAS Virgin Atlantic {'color': 'lightgray', 'width': 1}
+Shenzhen Singapore {'color': 'lightgray', 'width': 1}
+Shenzhen Swiss {'color': 'lightgray', 'width': 1}
+Shenzhen TAP {'color': 'lightgray', 'width': 1}
+Shenzhen Thai {'color': 'lightgray', 'width': 1}
+Shenzhen Turksih {'color': 'lightgray', 'width': 1}
+Shenzhen United {'color': 'lightgray', 'width': 1}
+Singapore Swiss {'color': 'lightgray', 'width': 1}
+Singapore TAP {'color': 'lightgray', 'width': 1}
+Singapore Thai {'color': 'lightgray', 'width': 1}
+Singapore Turksih {'color': 'lightgray', 'width': 1}
+Singapore United {'color': 'lightgray', 'width': 1}
+Singapore Alaska {'color': 'lightgray', 'width': 1}
+Singapore Virgin Atlantic {'color': 'lightgray', 'width': 1}
+Singapore Virgin Australia {'color': 'lightgray', 'width': 1}
+Singapore JetBlue {'color': 'lightgray', 'width': 1}
+Swiss TAP {'color': 'lightgray', 'width': 1}
+Swiss Thai {'color': 'lightgray', 'width': 1}
+Swiss Turksih {'color': 'lightgray', 'width': 1}
+Swiss United {'color': 'lightgray', 'width': 1}
+TAP Thai {'color': 'lightgray', 'width': 1}
+TAP Turksih {'color': 'lightgray', 'width': 1}
+TAP United {'color': 'lightgray', 'width': 1}
+Thai Turksih {'color': 'lightgray', 'width': 1}
+Thai United {'color': 'lightgray', 'width': 1}
+Turksih United {'color': 'lightgray', 'width': 1}
+United Virgin Australia {'color': 'lightgray', 'width': 1}
+Alaska American {'color': 'lightgray', 'width': 1}
+Alaska British {'color': 'lightgray', 'width': 1}
+Alaska CATHAY {'color': 'lightgray', 'width': 1}
+Alaska FINAIR {'color': 'lightgray', 'width': 1}
+Alaska Iberia {'color': 'lightgray', 'width': 1}
+Alaska JAL {'color': 'lightgray', 'width': 1}
+Alaska Malaysia {'color': 'lightgray', 'width': 1}
+Alaska Qantas {'color': 'lightgray', 'width': 1}
+Alaska Qatar {'color': 'lightgray', 'width': 1}
+Alaska Royal Air Morac {'color': 'lightgray', 'width': 1}
+Alaska Royal Jordanian {'color': 'lightgray', 'width': 1}
+Alaska Srilankan {'color': 'lightgray', 'width': 1}
+Alaska FIJI {'color': 'lightgray', 'width': 1}
+Alaska OMAN {'color': 'lightgray', 'width': 1}
+Alaska Aer Lingus {'color': 'lightgray', 'width': 1}
+Alaska Air Tahiti Nui {'color': 'lightgray', 'width': 1}
+Alaska Condor {'color': 'lightgray', 'width': 1}
+Alaska Israel {'color': 'lightgray', 'width': 1}
+Alaska Hainan {'color': 'lightgray', 'width': 1}
+Alaska Icelandair {'color': 'lightgray', 'width': 1}
+Alaska Korean Air {'color': 'lightgray', 'width': 1}
+Alaska LATAM {'color': 'lightgray', 'width': 1}
+Alaska Ravn Alaska {'color': 'lightgray', 'width': 1}
+Alaska STARLUX {'color': 'lightgray', 'width': 1}
+American British {'color': 'lightgray', 'width': 1}
+American CATHAY {'color': 'lightgray', 'width': 1}
+American FINAIR {'color': 'lightgray', 'width': 1}
+American Iberia {'color': 'lightgray', 'width': 1}
+American JAL {'color': 'lightgray', 'width': 1}
+American Malaysia {'color': 'lightgray', 'width': 1}
+American Qantas {'color': 'lightgray', 'width': 1}
+American Qatar {'color': 'lightgray', 'width': 1}
+American Royal Air Morac {'color': 'lightgray', 'width': 1}
+American Royal Jordanian {'color': 'lightgray', 'width': 1}
+American Srilankan {'color': 'lightgray', 'width': 1}
+American FIJI {'color': 'lightgray', 'width': 1}
+American OMAN {'color': 'lightgray', 'width': 1}
+British CATHAY {'color': 'lightgray', 'width': 1}
+British FINAIR {'color': 'lightgray', 'width': 1}
+British Iberia {'color': 'lightgray', 'width': 1}
+British JAL {'color': 'lightgray', 'width': 1}
+British Malaysia {'color': 'lightgray', 'width': 1}
+British Qantas {'color': 'lightgray', 'width': 1}
+British Qatar {'color': 'lightgray', 'width': 1}
+British Royal Air Morac {'color': 'lightgray', 'width': 1}
+British Royal Jordanian {'color': 'lightgray', 'width': 1}
+British Srilankan {'color': 'lightgray', 'width': 1}
+British FIJI {'color': 'lightgray', 'width': 1}
+British OMAN {'color': 'lightgray', 'width': 1}
+CATHAY FINAIR {'color': 'lightgray', 'width': 1}
+CATHAY Iberia {'color': 'lightgray', 'width': 1}
+CATHAY JAL {'color': 'lightgray', 'width': 1}
+CATHAY Malaysia {'color': 'lightgray', 'width': 1}
+CATHAY Qantas {'color': 'lightgray', 'width': 1}
+CATHAY Qatar {'color': 'lightgray', 'width': 1}
+CATHAY Royal Air Morac {'color': 'lightgray', 'width': 1}
+CATHAY Royal Jordanian {'color': 'lightgray', 'width': 1}
+CATHAY Srilankan {'color': 'lightgray', 'width': 1}
+CATHAY FIJI {'color': 'lightgray', 'width': 1}
+CATHAY OMAN {'color': 'lightgray', 'width': 1}
+FINAIR Iberia {'color': 'lightgray', 'width': 1}
+FINAIR JAL {'color': 'lightgray', 'width': 1}
+FINAIR Malaysia {'color': 'lightgray', 'width': 1}
+FINAIR Qantas {'color': 'lightgray', 'width': 1}
+FINAIR Qatar {'color': 'lightgray', 'width': 1}
+FINAIR Royal Air Morac {'color': 'lightgray', 'width': 1}
+FINAIR Royal Jordanian {'color': 'lightgray', 'width': 1}
+FINAIR Srilankan {'color': 'lightgray', 'width': 1}
+FINAIR FIJI {'color': 'lightgray', 'width': 1}
+FINAIR OMAN {'color': 'lightgray', 'width': 1}
+Iberia JAL {'color': 'lightgray', 'width': 1}
+Iberia Malaysia {'color': 'lightgray', 'width': 1}
+Iberia Qantas {'color': 'lightgray', 'width': 1}
+Iberia Qatar {'color': 'lightgray', 'width': 1}
+Iberia Royal Air Morac {'color': 'lightgray', 'width': 1}
+Iberia Royal Jordanian {'color': 'lightgray', 'width': 1}
+Iberia Srilankan {'color': 'lightgray', 'width': 1}
+Iberia FIJI {'color': 'lightgray', 'width': 1}
+Iberia OMAN {'color': 'lightgray', 'width': 1}
+JAL Malaysia {'color': 'lightgray', 'width': 1}
+JAL Qantas {'color': 'lightgray', 'width': 1}
+JAL Qatar {'color': 'lightgray', 'width': 1}
+JAL Royal Air Morac {'color': 'lightgray', 'width': 1}
+JAL Royal Jordanian {'color': 'lightgray', 'width': 1}
+JAL Srilankan {'color': 'lightgray', 'width': 1}
+JAL FIJI {'color': 'lightgray', 'width': 1}
+JAL OMAN {'color': 'lightgray', 'width': 1}
+JAL S7 {'color': 'lightgray', 'width': 1}
+JAL AirFrance {'color': 'lightgray', 'width': 1}
+JAL Bangkok {'color': 'lightgray', 'width': 1}
+JAL China Eastern {'color': 'lightgray', 'width': 1}
+JAL Emirates {'color': 'lightgray', 'width': 1}
+JAL Hawaiian {'color': 'lightgray', 'width': 1}
+JAL Korean Air {'color': 'lightgray', 'width': 1}
+JAL LATAM {'color': 'lightgray', 'width': 1}
+JAL Vistara {'color': 'lightgray', 'width': 1}
+JAL Jetstar {'color': 'lightgray', 'width': 1}
+Malaysia Qantas {'color': 'lightgray', 'width': 1}
+Malaysia Qatar {'color': 'lightgray', 'width': 1}
+Malaysia Royal Air Morac {'color': 'lightgray', 'width': 1}
+Malaysia Royal Jordanian {'color': 'lightgray', 'width': 1}
+Malaysia Srilankan {'color': 'lightgray', 'width': 1}
+Malaysia FIJI {'color': 'lightgray', 'width': 1}
+Malaysia OMAN {'color': 'lightgray', 'width': 1}
+Qantas Qatar {'color': 'lightgray', 'width': 1}
+Qantas Royal Air Morac {'color': 'lightgray', 'width': 1}
+Qantas Royal Jordanian {'color': 'lightgray', 'width': 1}
+Qantas Srilankan {'color': 'lightgray', 'width': 1}
+Qantas FIJI {'color': 'lightgray', 'width': 1}
+Qantas OMAN {'color': 'lightgray', 'width': 1}
+Qatar Royal Air Morac {'color': 'lightgray', 'width': 1}
+Qatar Royal Jordanian {'color': 'lightgray', 'width': 1}
+Qatar Srilankan {'color': 'lightgray', 'width': 1}
+Qatar FIJI {'color': 'lightgray', 'width': 1}
+Qatar OMAN {'color': 'lightgray', 'width': 1}
+Qatar Virgin Australia {'color': 'lightgray', 'width': 1}
+Qatar JetBlue {'color': 'lightgray', 'width': 1}
+Royal Air Morac Royal Jordanian {'color': 'lightgray', 'width': 1}
+Royal Air Morac Srilankan {'color': 'lightgray', 'width': 1}
+Royal Air Morac FIJI {'color': 'lightgray', 'width': 1}
+Royal Air Morac OMAN {'color': 'lightgray', 'width': 1}
+Royal Jordanian Srilankan {'color': 'lightgray', 'width': 1}
+Royal Jordanian FIJI {'color': 'lightgray', 'width': 1}
+Royal Jordanian OMAN {'color': 'lightgray', 'width': 1}
+Srilankan FIJI {'color': 'lightgray', 'width': 1}
+Srilankan OMAN {'color': 'lightgray', 'width': 1}
+FIJI OMAN {'color': 'lightgray', 'width': 1}
+AeroArgentina AeroMexico {'color': 'lightgray', 'width': 1}
+AeroArgentina AirEuropa {'color': 'lightgray', 'width': 1}
+AeroArgentina AirFrance {'color': 'lightgray', 'width': 1}
+AeroArgentina China Airlines {'color': 'lightgray', 'width': 1}
+AeroArgentina China Eastern {'color': 'lightgray', 'width': 1}
+AeroArgentina CZECH {'color': 'lightgray', 'width': 1}
+AeroArgentina DELTA {'color': 'lightgray', 'width': 1}
+AeroArgentina Garuda {'color': 'lightgray', 'width': 1}
+AeroArgentina ITA {'color': 'lightgray', 'width': 1}
+AeroArgentina Kenya {'color': 'lightgray', 'width': 1}
+AeroArgentina KLM {'color': 'lightgray', 'width': 1}
+AeroArgentina Korean Air {'color': 'lightgray', 'width': 1}
+AeroArgentina MEA {'color': 'lightgray', 'width': 1}
+AeroArgentina Saudia {'color': 'lightgray', 'width': 1}
+AeroArgentina TARDM {'color': 'lightgray', 'width': 1}
+AeroArgentina Vietnam {'color': 'lightgray', 'width': 1}
+AeroArgentina Virgin Atlantic {'color': 'lightgray', 'width': 1}
+AeroArgentina XIAMENAIR {'color': 'lightgray', 'width': 1}
+AeroMexico AirEuropa {'color': 'lightgray', 'width': 1}
+AeroMexico AirFrance {'color': 'lightgray', 'width': 1}
+AeroMexico China Airlines {'color': 'lightgray', 'width': 1}
+AeroMexico China Eastern {'color': 'lightgray', 'width': 1}
+AeroMexico CZECH {'color': 'lightgray', 'width': 1}
+AeroMexico DELTA {'color': 'lightgray', 'width': 1}
+AeroMexico Garuda {'color': 'lightgray', 'width': 1}
+AeroMexico ITA {'color': 'lightgray', 'width': 1}
+AeroMexico Kenya {'color': 'lightgray', 'width': 1}
+AeroMexico KLM {'color': 'lightgray', 'width': 1}
+AeroMexico Korean Air {'color': 'lightgray', 'width': 1}
+AeroMexico MEA {'color': 'lightgray', 'width': 1}
+AeroMexico Saudia {'color': 'lightgray', 'width': 1}
+AeroMexico TARDM {'color': 'lightgray', 'width': 1}
+AeroMexico Vietnam {'color': 'lightgray', 'width': 1}
+AeroMexico Virgin Atlantic {'color': 'lightgray', 'width': 1}
+AeroMexico XIAMENAIR {'color': 'lightgray', 'width': 1}
+AirEuropa AirFrance {'color': 'lightgray', 'width': 1}
+AirEuropa China Airlines {'color': 'lightgray', 'width': 1}
+AirEuropa China Eastern {'color': 'lightgray', 'width': 1}
+AirEuropa CZECH {'color': 'lightgray', 'width': 1}
+AirEuropa DELTA {'color': 'lightgray', 'width': 1}
+AirEuropa Garuda {'color': 'lightgray', 'width': 1}
+AirEuropa ITA {'color': 'lightgray', 'width': 1}
+AirEuropa Kenya {'color': 'lightgray', 'width': 1}
+AirEuropa KLM {'color': 'lightgray', 'width': 1}
+AirEuropa Korean Air {'color': 'lightgray', 'width': 1}
+AirEuropa MEA {'color': 'lightgray', 'width': 1}
+AirEuropa Saudia {'color': 'lightgray', 'width': 1}
+AirEuropa TARDM {'color': 'lightgray', 'width': 1}
+AirEuropa Vietnam {'color': 'lightgray', 'width': 1}
+AirEuropa Virgin Atlantic {'color': 'lightgray', 'width': 1}
+AirEuropa XIAMENAIR {'color': 'lightgray', 'width': 1}
+AirFrance China Airlines {'color': 'lightgray', 'width': 1}
+AirFrance China Eastern {'color': 'lightgray', 'width': 1}
+AirFrance CZECH {'color': 'lightgray', 'width': 1}
+AirFrance DELTA {'color': 'lightgray', 'width': 1}
+AirFrance Garuda {'color': 'lightgray', 'width': 1}
+AirFrance ITA {'color': 'lightgray', 'width': 1}
+AirFrance Kenya {'color': 'lightgray', 'width': 1}
+AirFrance KLM {'color': 'lightgray', 'width': 1}
+AirFrance Korean Air {'color': 'lightgray', 'width': 1}
+AirFrance MEA {'color': 'lightgray', 'width': 1}
+AirFrance Saudia {'color': 'lightgray', 'width': 1}
+AirFrance TARDM {'color': 'lightgray', 'width': 1}
+AirFrance Vietnam {'color': 'lightgray', 'width': 1}
+AirFrance Virgin Atlantic {'color': 'lightgray', 'width': 1}
+AirFrance XIAMENAIR {'color': 'lightgray', 'width': 1}
+China Airlines China Eastern {'color': 'lightgray', 'width': 1}
+China Airlines CZECH {'color': 'lightgray', 'width': 1}
+China Airlines DELTA {'color': 'lightgray', 'width': 1}
+China Airlines Garuda {'color': 'lightgray', 'width': 1}
+China Airlines ITA {'color': 'lightgray', 'width': 1}
+China Airlines Kenya {'color': 'lightgray', 'width': 1}
+China Airlines KLM {'color': 'lightgray', 'width': 1}
+China Airlines Korean Air {'color': 'lightgray', 'width': 1}
+China Airlines MEA {'color': 'lightgray', 'width': 1}
+China Airlines Saudia {'color': 'lightgray', 'width': 1}
+China Airlines TARDM {'color': 'lightgray', 'width': 1}
+China Airlines Vietnam {'color': 'lightgray', 'width': 1}
+China Airlines Virgin Atlantic {'color': 'lightgray', 'width': 1}
+China Airlines XIAMENAIR {'color': 'lightgray', 'width': 1}
+China Eastern CZECH {'color': 'lightgray', 'width': 1}
+China Eastern DELTA {'color': 'lightgray', 'width': 1}
+China Eastern Garuda {'color': 'lightgray', 'width': 1}
+China Eastern ITA {'color': 'lightgray', 'width': 1}
+China Eastern Kenya {'color': 'lightgray', 'width': 1}
+China Eastern KLM {'color': 'lightgray', 'width': 1}
+China Eastern Korean Air {'color': 'lightgray', 'width': 1}
+China Eastern MEA {'color': 'lightgray', 'width': 1}
+China Eastern Saudia {'color': 'lightgray', 'width': 1}
+China Eastern TARDM {'color': 'lightgray', 'width': 1}
+China Eastern Vietnam {'color': 'lightgray', 'width': 1}
+China Eastern Virgin Atlantic {'color': 'lightgray', 'width': 1}
+China Eastern XIAMENAIR {'color': 'lightgray', 'width': 1}
+CZECH DELTA {'color': 'lightgray', 'width': 1}
+CZECH Garuda {'color': 'lightgray', 'width': 1}
+CZECH ITA {'color': 'lightgray', 'width': 1}
+CZECH Kenya {'color': 'lightgray', 'width': 1}
+CZECH KLM {'color': 'lightgray', 'width': 1}
+CZECH Korean Air {'color': 'lightgray', 'width': 1}
+CZECH MEA {'color': 'lightgray', 'width': 1}
+CZECH Saudia {'color': 'lightgray', 'width': 1}
+CZECH TARDM {'color': 'lightgray', 'width': 1}
+CZECH Vietnam {'color': 'lightgray', 'width': 1}
+CZECH Virgin Atlantic {'color': 'lightgray', 'width': 1}
+CZECH XIAMENAIR {'color': 'lightgray', 'width': 1}
+DELTA Garuda {'color': 'lightgray', 'width': 1}
+DELTA ITA {'color': 'lightgray', 'width': 1}
+DELTA Kenya {'color': 'lightgray', 'width': 1}
+DELTA KLM {'color': 'lightgray', 'width': 1}
+DELTA Korean Air {'color': 'lightgray', 'width': 1}
+DELTA MEA {'color': 'lightgray', 'width': 1}
+DELTA Saudia {'color': 'lightgray', 'width': 1}
+DELTA TARDM {'color': 'lightgray', 'width': 1}
+DELTA Vietnam {'color': 'lightgray', 'width': 1}
+DELTA Virgin Atlantic {'color': 'lightgray', 'width': 1}
+DELTA XIAMENAIR {'color': 'lightgray', 'width': 1}
+Garuda ITA {'color': 'lightgray', 'width': 1}
+Garuda Kenya {'color': 'lightgray', 'width': 1}
+Garuda KLM {'color': 'lightgray', 'width': 1}
+Garuda Korean Air {'color': 'lightgray', 'width': 1}
+Garuda MEA {'color': 'lightgray', 'width': 1}
+Garuda Saudia {'color': 'lightgray', 'width': 1}
+Garuda TARDM {'color': 'lightgray', 'width': 1}
+Garuda Vietnam {'color': 'lightgray', 'width': 1}
+Garuda Virgin Atlantic {'color': 'lightgray', 'width': 1}
+Garuda XIAMENAIR {'color': 'lightgray', 'width': 1}
+ITA Kenya {'color': 'lightgray', 'width': 1}
+ITA KLM {'color': 'lightgray', 'width': 1}
+ITA Korean Air {'color': 'lightgray', 'width': 1}
+ITA MEA {'color': 'lightgray', 'width': 1}
+ITA Saudia {'color': 'lightgray', 'width': 1}
+ITA TARDM {'color': 'lightgray', 'width': 1}
+ITA Vietnam {'color': 'lightgray', 'width': 1}
+ITA Virgin Atlantic {'color': 'lightgray', 'width': 1}
+ITA XIAMENAIR {'color': 'lightgray', 'width': 1}
+Kenya KLM {'color': 'lightgray', 'width': 1}
+Kenya Korean Air {'color': 'lightgray', 'width': 1}
+Kenya MEA {'color': 'lightgray', 'width': 1}
+Kenya Saudia {'color': 'lightgray', 'width': 1}
+Kenya TARDM {'color': 'lightgray', 'width': 1}
+Kenya Vietnam {'color': 'lightgray', 'width': 1}
+Kenya Virgin Atlantic {'color': 'lightgray', 'width': 1}
+Kenya XIAMENAIR {'color': 'lightgray', 'width': 1}
+KLM Korean Air {'color': 'lightgray', 'width': 1}
+KLM MEA {'color': 'lightgray', 'width': 1}
+KLM Saudia {'color': 'lightgray', 'width': 1}
+KLM TARDM {'color': 'lightgray', 'width': 1}
+KLM Vietnam {'color': 'lightgray', 'width': 1}
+KLM Virgin Atlantic {'color': 'lightgray', 'width': 1}
+KLM XIAMENAIR {'color': 'lightgray', 'width': 1}
+Korean Air MEA {'color': 'lightgray', 'width': 1}
+Korean Air Saudia {'color': 'lightgray', 'width': 1}
+Korean Air TARDM {'color': 'lightgray', 'width': 1}
+Korean Air Vietnam {'color': 'lightgray', 'width': 1}
+Korean Air Virgin Atlantic {'color': 'lightgray', 'width': 1}
+Korean Air XIAMENAIR {'color': 'lightgray', 'width': 1}
+MEA Saudia {'color': 'lightgray', 'width': 1}
+MEA TARDM {'color': 'lightgray', 'width': 1}
+MEA Vietnam {'color': 'lightgray', 'width': 1}
+MEA Virgin Atlantic {'color': 'lightgray', 'width': 1}
+MEA XIAMENAIR {'color': 'lightgray', 'width': 1}
+Saudia TARDM {'color': 'lightgray', 'width': 1}
+Saudia Vietnam {'color': 'lightgray', 'width': 1}
+Saudia Virgin Atlantic {'color': 'lightgray', 'width': 1}
+Saudia XIAMENAIR {'color': 'lightgray', 'width': 1}
+TARDM Vietnam {'color': 'lightgray', 'width': 1}
+TARDM Virgin Atlantic {'color': 'lightgray', 'width': 1}
+TARDM XIAMENAIR {'color': 'lightgray', 'width': 1}
+Vietnam Virgin Atlantic {'color': 'lightgray', 'width': 1}
+Vietnam XIAMENAIR {'color': 'lightgray', 'width': 1}
+Virgin Atlantic XIAMENAIR {'color': 'lightgray', 'width': 1}
+Virgin Atlantic Hawaiian {'color': 'lightgray', 'width': 1}
+Virgin Atlantic Indigo {'color': 'lightgray', 'width': 1}
+Virgin Atlantic LATAM {'color': 'lightgray', 'width': 1}
+Virgin Atlantic South African {'color': 'lightgray', 'width': 1}
+Virgin Atlantic Virgin Australia {'color': 'lightgray', 'width': 1}
+Hainan Virgin Australia {'color': 'lightgray', 'width': 1}
+Icelandair JetBlue {'color': 'lightgray', 'width': 1}
+Hawaiian Virgin Australia {'color': 'lightgray', 'width': 1}
+Hawaiian JetBlue {'color': 'lightgray', 'width': 1}
+South African Virgin Australia {'color': 'lightgray', 'width': 1}
+South African JetBlue {'color': 'lightgray', 'width': 1}
+Virgin Australia Etihad {'color': 'lightgray', 'width': 1}
+Virgin Australia HongKong {'color': 'lightgray', 'width': 1}
+Virgin Australia Capital {'color': 'lightgray', 'width': 1}
+Virgin Australia Tianjin {'color': 'lightgray', 'width': 1}
+Virgin Australia LINK {'color': 'lightgray', 'width': 1}
+Virgin Australia PELICAN {'color': 'lightgray', 'width': 1}
+JetBlue JSX {'color': 'lightgray', 'width': 1}
+JetBlue Silver {'color': 'lightgray', 'width': 1}

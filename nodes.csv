@@ -1,0 +1,107 @@
+,color,size,image,id,label,shape,group
+0,#5085CC,25,images/Amex.jpg,A,AMEX MR,diamond,
+1,#E7C56E,25,,M,Marriott Bonvoy,diamond,
+2,,10,,Hilton,Hilton,dot,hotel
+3,,10,,Choice,Choice,dot,hotel
+4,,10,,AirFrance,AirFrance,dot,sky
+5,,10,,KLM,KLM,dot,sky
+6,,10,,Air Canada,Air Canada,dot,star
+7,,10,,ANA,ANA,dot,star
+8,,10,,Lifemiles,Lifemiles,dot,star
+9,,10,,British,British,dot,one
+10,,10,,Virgin Atlantic,Virgin Atlantic,dot,sky
+11,,10,,Aer Lingus,Aer Lingus,dot,indivual
+12,,10,,AeroMexico,AeroMexico,dot,sky
+13,,10,,CATHAY,CATHAY,dot,one
+14,,10,,DELTA,DELTA,dot,sky
+15,,10,,Emirates,Emirates,dot,indivual
+16,,10,,Hawaiian,Hawaiian,dot,indivual
+17,,10,,Iberia,Iberia,dot,one
+18,,10,,JetBlue,JetBlue,dot,indivual
+19,,10,,Qantas,Qantas,dot,one
+20,,10,,Qatar,Qatar,dot,one
+21,,10,,Singapore,Singapore,dot,star
+22,#7D7D7D,25,images/Bilt.jpg,B,Bilt,diamond,
+23,,10,,Hyatt,Hyatt,dot,hotel
+24,,10,,IHG,IHG,dot,hotel
+25,,10,,Alaska,Alaska,dot,one
+26,,10,,American,American,dot,one
+27,,10,,United,United,dot,star
+28,,10,,Turksih,Turksih,dot,star
+29,#E09233,25,images/Citi.jpg,Ci,Citi TYP,diamond,
+30,,10,,Wyndham,Wyndham,dot,hotel
+31,,10,,Accor,Accor,dot,hotel
+32,,10,,Etihad,Etihad,dot,indivual
+33,,10,,EVA,EVA,dot,star
+34,,10,,Thai,Thai,dot,star
+35,#535E7A,25,images/Chase.jpg,Ch,Chase UR,diamond,
+36,,10,,Southwest,Southwest,dot,indivual
+37,#284278,25,images/Capital.jpg,Co,Capital One,diamond,
+38,,10,,FINNAIR,FINNAIR,dot,one
+39,,10,,TAP,TAP,dot,star
+40,,10,,Aegean,Aegean,dot,star
+41,,10,,Air China,Air China,dot,star
+42,,10,,ASIANA,ASIANA,dot,star
+43,,10,,China Southern,China Southern,dot,indivual
+44,,10,,Copa,Copa,dot,star
+45,,10,,FRONTIER,FRONTIER,dot,indivual
+46,,10,,Hainan,Hainan,dot,indivual
+47,,10,,InterMiles,InterMiles,dot,indivual
+48,,10,,JAL,JAL,dot,one
+49,,10,,Korean,Korean,dot,indivual
+50,,10,,LATAM,LATAM,dot,indivual
+51,,10,,Saudia,Saudia,dot,sky
+52,,10,,Turkish,Turkish,dot,indivual
+53,,10,,Virgin Australia,Virgin Australia,dot,indivual
+54,,10,,Vueling,Vueling,dot,indivual
+55,AA2D35,25,,W,Wells Fargo,diamond,
+56,,10,,Air India,Air India,dot,star
+57,,10,,Air New Zealand,Air New Zealand,dot,star
+58,,10,,Austrian,Austrian,dot,star
+59,,10,,Brussels,Brussels,dot,star
+60,,10,,CROATIA,CROATIA,dot,star
+61,,10,,EGYPTAIR,EGYPTAIR,dot,star
+62,,10,,Ethiopian,Ethiopian,dot,star
+63,,10,,LOT Polish,LOT Polish,dot,star
+64,,10,,Lufthansa,Lufthansa,dot,star
+65,,10,,SAS,SAS,dot,star
+66,,10,,Shenzhen,Shenzhen,dot,star
+67,,10,,Swiss,Swiss,dot,star
+68,,10,,Malaysia,Malaysia,dot,one
+69,,10,,Royal Air Morac,Royal Air Morac,dot,one
+70,,10,,Royal Jordanian,Royal Jordanian,dot,one
+71,,10,,Srilankan,Srilankan,dot,one
+72,,10,,FIJI,FIJI,dot,one
+73,,10,,OMAN,OMAN,dot,one
+74,,10,,Air Tahiti Nui,Air Tahiti Nui,dot,indivual
+75,,10,,Condor,Condor,dot,indivual
+76,,10,,Israel,Israel,dot,indivual
+77,,10,,Icelandair,Icelandair,dot,indivual
+78,,10,,Korean Air,Korean Air,dot,sky
+79,,10,,Ravn Alaska,Ravn Alaska,dot,indivual
+80,,10,,STARLUX,STARLUX,dot,indivual
+81,,10,,S7,S7,dot,indivual
+82,,10,,Bangkok,Bangkok,dot,indivual
+83,,10,,China Eastern,China Eastern,dot,sky
+84,,10,,Vistara,Vistara,dot,indivual
+85,,10,,Jetstar,Jetstar,dot,indivual
+86,,10,,AeroArgentina,AeroArgentina,dot,sky
+87,,10,,AirEuropa,AirEuropa,dot,sky
+88,,10,,China Airlines,China Airlines,dot,sky
+89,,10,,CZECH,CZECH,dot,sky
+90,,10,,Garuda,Garuda,dot,sky
+91,,10,,ITA,ITA,dot,sky
+92,,10,,Kenya,Kenya,dot,sky
+93,,10,,MEA,MEA,dot,sky
+94,,10,,TARDM,TARDM,dot,sky
+95,,10,,Vietnam,Vietnam,dot,sky
+96,,10,,XIAMENAIR,XIAMENAIR,dot,sky
+97,,10,,Indigo,Indigo,dot,indivual
+98,,10,,South African,South African,dot,indivual
+99,,10,,HongKong,HongKong,dot,indivual
+100,,10,,Capital,Capital,dot,indivual
+101,,10,,Tianjin,Tianjin,dot,indivual
+102,,10,,LINK,LINK,dot,indivual
+103,,10,,PELICAN,PELICAN,dot,indivual
+104,,10,,JSX,JSX,dot,indivual
+105,,10,,Silver,Silver,dot,indivual
