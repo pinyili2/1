@@ -77,9 +77,9 @@
 75,,10,,China Eastern,China Eastern,dot,sky
 76,,10,,Vistara,Vistara,dot,alone
 77,,10,,Jetstar,Jetstar,dot,alone
-78,,10,,AeroArgentina,AeroArgentina,dot,sky
-79,,10,,AirEuropa,AirEuropa,dot,sky
-80,,10,,China Airlines,China Airlines,dot,sky
+78,,10,,China Airlines,China Airlines,dot,sky
+79,,10,,AeroArgentina,AeroArgentina,dot,sky
+80,,10,,AirEuropa,AirEuropa,dot,sky
 81,,10,,CZECH,CZECH,dot,sky
 82,,10,,Garuda,Garuda,dot,sky
 83,,10,,ITA,ITA,dot,sky
@@ -95,5 +95,9 @@
 93,,10,,Tianjin,Tianjin,dot,alone
 94,,10,,LINK,LINK,dot,alone
 95,,10,,PELICAN,PELICAN,dot,alone
-96,,10,,JSX,JSX,dot,alone
-97,,10,,Silver,Silver,dot,alone
+96,,10,,Air Serbia,Air Serbia,dot,alone
+97,,10,,Gulf,Gulf,dot,alone
+98,,10,,JSX,JSX,dot,alone
+99,,10,,Silver,Silver,dot,alone
+100,,10,,AeroFlot,AeroFlot,dot,alone
+101,,10,,Sichuan,Sichuan,dot,alone

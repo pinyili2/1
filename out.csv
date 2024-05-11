@@ -1,757 +1,792 @@
-,source,target,color,title
-0,A,M,#3EADA5,
-1,A,AirFrance,#3EADA5,
-2,A,KLM,#3EADA5,
-3,A,Air Canada,#3EADA5,
-4,A,ANA,#3EADA5,
-5,A,Lifemiles,#3EADA5,
-6,A,British,#3EADA5,
-7,A,Virgin Atlantic,#3EADA5,
-8,A,Aer Lingus,#3EADA5,
-9,A,AeroMexico,#3EADA5,
-10,A,CATHAY,#3EADA5,
-11,A,DELTA,#3EADA5,
-12,A,Emirates,#3EADA5,
-13,A,Hawaiian,#3EADA5,
-14,A,Iberia,#3EADA5,
-15,A,JetBlue,#3EADA5,
-16,A,Qantas,#3EADA5,
-17,A,Qatar,#3EADA5,
-18,A,Singapore,#3EADA5,
-19,B,M,#7D7D7D,
-20,B,Alaska,#7D7D7D,
-21,B,American,#7D7D7D,
-22,B,AirFrance,#7D7D7D,
-23,B,KLM,#7D7D7D,
-24,B,Air Canada,#7D7D7D,
-25,B,United,#7D7D7D,
-26,B,Virgin Atlantic,#7D7D7D,
-27,B,Turkish,#7D7D7D,
-28,B,British,#7D7D7D,
-29,B,CATHAY,#7D7D7D,
-30,B,Lifemiles,#7D7D7D,
-31,B,Iberia,#7D7D7D,
-32,B,Aer Lingus,#7D7D7D,
-33,B,Emirates,#7D7D7D,
-34,B,Hawaiian,#7D7D7D,
-35,Ci,AeroMexico,#E09233,
-36,Ci,Lifemiles,#E09233,
-37,Ci,CATHAY,#E09233,
-38,Ci,Emirates,#E09233,
-39,Ci,Etihad,#E09233,
-40,Ci,EVA,#E09233,
-41,Ci,AirFrance,#E09233,
-42,Ci,KLM,#E09233,
-43,Ci,JetBlue,#E09233,
-44,Ci,Qantas,#E09233,
-45,Ci,Qatar,#E09233,
-46,Ci,Singapore,#E09233,
-47,Ci,Thai,#E09233,
-48,Ci,Turkish,#E09233,
-49,Ci,Virgin Atlantic,#E09233,
-50,Ch,M,#4478BC,
-51,Ch,Aer Lingus,#4478BC,
-52,Ch,Air Canada,#4478BC,
-53,Ch,British,#4478BC,
-54,Ch,AirFrance,#4478BC,
-55,Ch,KLM,#4478BC,
-56,Ch,Iberia,#4478BC,
-57,Ch,Singapore,#4478BC,
-58,Ch,JetBlue,#4478BC,
-59,Ch,Southwest,#4478BC,
-60,Ch,United,#4478BC,
-61,Ch,Virgin Atlantic,#4478BC,
-62,Co,AirFrance,#284278,
-63,Co,KLM,#284278,
-64,Co,Virgin Atlantic,#284278,
-65,Co,AeroMexico,#284278,
-66,Co,Air Canada,#284278,
-67,Co,CATHAY,#284278,
-68,Co,Lifemiles,#284278,
-69,Co,British,#284278,
-70,Co,Emirates,#284278,
-71,Co,Etihad,#284278,
-72,Co,EVA,#284278,
-73,Co,FINNAIR,#284278,
-74,Co,Qantas,#284278,
-75,Co,TAP,#284278,
-76,Co,Singapore,#284278,
-77,Co,Turkish,#284278,
-78,M,Aegean,#FFEB98,
-79,M,Aer Lingus,#FFEB98,
-80,M,AeroMexico,#FFEB98,
-81,M,Air Canada,#FFEB98,
-82,M,Air China,#FFEB98,
-83,M,AirFrance,#FFEB98,
-84,M,KLM,#FFEB98,
-85,M,Alaska,#FFEB98,
-86,M,American,#FFEB98,
-87,M,ANA,#FFEB98,
-88,M,ASIANA,#FFEB98,
-89,M,China Southern,#FFEB98,
-90,M,Copa,#FFEB98,
-91,M,DELTA,#FFEB98,
-92,M,Emirates,#FFEB98,
-93,M,Etihad,#FFEB98,
-94,M,FRONTIER,#FFEB98,
-95,M,Hainan,#FFEB98,
-96,M,Hawaiian,#FFEB98,
-97,M,Iberia,#FFEB98,
-98,M,InterMiles,#FFEB98,
-99,M,JAL,#FFEB98,
-100,M,Korean,#FFEB98,
-101,M,LATAM,#FFEB98,
-102,M,Qantas,#FFEB98,
-103,M,Qatar,#FFEB98,
-104,M,Saudia,#FFEB98,
-105,M,Singapore,#FFEB98,
-106,M,Southwest,#FFEB98,
-107,M,TAP,#FFEB98,
-108,M,Thai,#FFEB98,
-109,M,Turkish,#FFEB98,
-110,M,United,#FFEB98,
-111,M,Virgin Atlantic,#FFEB98,
-112,M,Virgin Australia,#FFEB98,
-113,M,Vueling,#FFEB98,
-114,W,Lifemiles,#AA2D35,
-115,W,AirFrance,#AA2D35,
-116,W,KLM,#AA2D35,
-117,W,British,#AA2D35,
-118,W,Iberia,#AA2D35,
-119,W,Aer Lingus,#AA2D35,
-120,Aer Lingus,Vueling,lightgray,
-121,Aer Lingus,Qatar,lightgray,
-122,Aer Lingus,Iberia,lightgray,
-123,Aer Lingus,British,lightgray,
-124,Aer Lingus,FINNAIR,lightgray,
-125,Aer Lingus,Alaska,lightgray,
-126,Aegean,Air Canada,lightgray,
-127,Aegean,Air China,lightgray,
-128,Aegean,Air India,lightgray,
-129,Aegean,Air New Zealand,lightgray,
-130,Aegean,ANA,lightgray,
-131,Aegean,ASIANA,lightgray,
-132,Aegean,Austrian,lightgray,
-133,Aegean,Lifemiles,lightgray,
-134,Aegean,Brussels,lightgray,
-135,Aegean,Copa,lightgray,
-136,Aegean,CROATIA,lightgray,
-137,Aegean,EGYPTAIR,lightgray,
-138,Aegean,Ethiopian,lightgray,
-139,Aegean,EVA,lightgray,
-140,Aegean,LOT Polish,lightgray,
-141,Aegean,Lufthansa,lightgray,
-142,Aegean,SAS,lightgray,
-143,Aegean,Shenzhen,lightgray,
-144,Aegean,Singapore,lightgray,
-145,Aegean,Swiss,lightgray,
-146,Aegean,TAP,lightgray,
-147,Aegean,Thai,lightgray,
-148,Aegean,Turkish,lightgray,
-149,Aegean,United,lightgray,
-150,Air Canada,Air China,lightgray,
-151,Air Canada,Air India,lightgray,
-152,Air Canada,Air New Zealand,lightgray,
-153,Air Canada,ANA,lightgray,
-154,Air Canada,ASIANA,lightgray,
-155,Air Canada,Austrian,lightgray,
-156,Air Canada,Lifemiles,lightgray,
-157,Air Canada,Brussels,lightgray,
-158,Air Canada,Copa,lightgray,
-159,Air Canada,CROATIA,lightgray,
-160,Air Canada,EGYPTAIR,lightgray,
-161,Air Canada,Ethiopian,lightgray,
-162,Air Canada,EVA,lightgray,
-163,Air Canada,LOT Polish,lightgray,
-164,Air Canada,Lufthansa,lightgray,
-165,Air Canada,SAS,lightgray,
-166,Air Canada,Shenzhen,lightgray,
-167,Air Canada,Singapore,lightgray,
-168,Air Canada,Swiss,lightgray,
-169,Air Canada,TAP,lightgray,
-170,Air Canada,Thai,lightgray,
-171,Air Canada,Turkish,lightgray,
-172,Air Canada,United,lightgray,
-173,Air Canada,Virgin Australia,lightgray,
-174,Air China,Air India,lightgray,
-175,Air China,Air New Zealand,lightgray,
-176,Air China,ANA,lightgray,
-177,Air China,ASIANA,lightgray,
-178,Air China,Austrian,lightgray,
-179,Air China,Lifemiles,lightgray,
-180,Air China,Brussels,lightgray,
-181,Air China,Copa,lightgray,
-182,Air China,CROATIA,lightgray,
-183,Air China,EGYPTAIR,lightgray,
-184,Air China,Ethiopian,lightgray,
-185,Air China,EVA,lightgray,
-186,Air China,LOT Polish,lightgray,
-187,Air China,Lufthansa,lightgray,
-188,Air China,SAS,lightgray,
-189,Air China,Shenzhen,lightgray,
-190,Air China,Singapore,lightgray,
-191,Air China,Swiss,lightgray,
-192,Air China,TAP,lightgray,
-193,Air China,Thai,lightgray,
-194,Air China,Turkish,lightgray,
-195,Air China,United,lightgray,
-196,Air India,Air New Zealand,lightgray,
-197,Air India,ANA,lightgray,
-198,Air India,ASIANA,lightgray,
-199,Air India,Austrian,lightgray,
-200,Air India,Lifemiles,lightgray,
-201,Air India,Brussels,lightgray,
-202,Air India,Copa,lightgray,
-203,Air India,CROATIA,lightgray,
-204,Air India,EGYPTAIR,lightgray,
-205,Air India,Ethiopian,lightgray,
-206,Air India,EVA,lightgray,
-207,Air India,LOT Polish,lightgray,
-208,Air India,Lufthansa,lightgray,
-209,Air India,SAS,lightgray,
-210,Air India,Shenzhen,lightgray,
-211,Air India,Singapore,lightgray,
-212,Air India,Swiss,lightgray,
-213,Air India,TAP,lightgray,
-214,Air India,Thai,lightgray,
-215,Air India,Turkish,lightgray,
-216,Air India,United,lightgray,
-217,Air New Zealand,ANA,lightgray,
-218,Air New Zealand,ASIANA,lightgray,
-219,Air New Zealand,Austrian,lightgray,
-220,Air New Zealand,Lifemiles,lightgray,
-221,Air New Zealand,Brussels,lightgray,
-222,Air New Zealand,Copa,lightgray,
-223,Air New Zealand,CROATIA,lightgray,
-224,Air New Zealand,EGYPTAIR,lightgray,
-225,Air New Zealand,Ethiopian,lightgray,
-226,Air New Zealand,EVA,lightgray,
-227,Air New Zealand,LOT Polish,lightgray,
-228,Air New Zealand,Lufthansa,lightgray,
-229,Air New Zealand,SAS,lightgray,
-230,Air New Zealand,Shenzhen,lightgray,
-231,Air New Zealand,Singapore,lightgray,
-232,Air New Zealand,Swiss,lightgray,
-233,Air New Zealand,TAP,lightgray,
-234,Air New Zealand,Thai,lightgray,
-235,Air New Zealand,Turkish,lightgray,
-236,Air New Zealand,United,lightgray,
-237,Air New Zealand,Virgin Atlantic,lightgray,
-238,ANA,ASIANA,lightgray,
-239,ANA,Austrian,lightgray,
-240,ANA,Lifemiles,lightgray,
-241,ANA,Brussels,lightgray,
-242,ANA,Copa,lightgray,
-243,ANA,CROATIA,lightgray,
-244,ANA,EGYPTAIR,lightgray,
-245,ANA,Ethiopian,lightgray,
-246,ANA,EVA,lightgray,
-247,ANA,LOT Polish,lightgray,
-248,ANA,Lufthansa,lightgray,
-249,ANA,SAS,lightgray,
-250,ANA,Shenzhen,lightgray,
-251,ANA,Singapore,lightgray,
-252,ANA,Swiss,lightgray,
-253,ANA,TAP,lightgray,
-254,ANA,Thai,lightgray,
-255,ANA,Turkish,lightgray,
-256,ANA,United,lightgray,
-257,ANA,Virgin Atlantic,lightgray,
-258,ANA,Virgin Australia,lightgray,
-259,ASIANA,Austrian,lightgray,
-260,ASIANA,Lifemiles,lightgray,
-261,ASIANA,Brussels,lightgray,
-262,ASIANA,Copa,lightgray,
-263,ASIANA,CROATIA,lightgray,
-264,ASIANA,EGYPTAIR,lightgray,
-265,ASIANA,Ethiopian,lightgray,
-266,ASIANA,EVA,lightgray,
-267,ASIANA,LOT Polish,lightgray,
-268,ASIANA,Lufthansa,lightgray,
-269,ASIANA,SAS,lightgray,
-270,ASIANA,Shenzhen,lightgray,
-271,ASIANA,Singapore,lightgray,
-272,ASIANA,Swiss,lightgray,
-273,ASIANA,TAP,lightgray,
-274,ASIANA,Thai,lightgray,
-275,ASIANA,Turkish,lightgray,
-276,ASIANA,United,lightgray,
-277,Austrian,Lifemiles,lightgray,
-278,Austrian,Brussels,lightgray,
-279,Austrian,Copa,lightgray,
-280,Austrian,CROATIA,lightgray,
-281,Austrian,EGYPTAIR,lightgray,
-282,Austrian,Ethiopian,lightgray,
-283,Austrian,EVA,lightgray,
-284,Austrian,LOT Polish,lightgray,
-285,Austrian,Lufthansa,lightgray,
-286,Austrian,SAS,lightgray,
-287,Austrian,Shenzhen,lightgray,
-288,Austrian,Singapore,lightgray,
-289,Austrian,Swiss,lightgray,
-290,Austrian,TAP,lightgray,
-291,Austrian,Thai,lightgray,
-292,Austrian,Turkish,lightgray,
-293,Austrian,United,lightgray,
-294,Lifemiles,Brussels,lightgray,
-295,Lifemiles,Copa,lightgray,
-296,Lifemiles,CROATIA,lightgray,
-297,Lifemiles,EGYPTAIR,lightgray,
-298,Lifemiles,Ethiopian,lightgray,
-299,Lifemiles,EVA,lightgray,
-300,Lifemiles,LOT Polish,lightgray,
-301,Lifemiles,Lufthansa,lightgray,
-302,Lifemiles,SAS,lightgray,
-303,Lifemiles,Shenzhen,lightgray,
-304,Lifemiles,Singapore,lightgray,
-305,Lifemiles,Swiss,lightgray,
-306,Lifemiles,TAP,lightgray,
-307,Lifemiles,Thai,lightgray,
-308,Lifemiles,Turkish,lightgray,
-309,Lifemiles,United,lightgray,
-310,Brussels,Copa,lightgray,
-311,Brussels,CROATIA,lightgray,
-312,Brussels,EGYPTAIR,lightgray,
-313,Brussels,Ethiopian,lightgray,
-314,Brussels,EVA,lightgray,
-315,Brussels,LOT Polish,lightgray,
-316,Brussels,Lufthansa,lightgray,
-317,Brussels,SAS,lightgray,
-318,Brussels,Shenzhen,lightgray,
-319,Brussels,Singapore,lightgray,
-320,Brussels,Swiss,lightgray,
-321,Brussels,TAP,lightgray,
-322,Brussels,Thai,lightgray,
-323,Brussels,Turkish,lightgray,
-324,Brussels,United,lightgray,
-325,Copa,CROATIA,lightgray,
-326,Copa,EGYPTAIR,lightgray,
-327,Copa,Ethiopian,lightgray,
-328,Copa,EVA,lightgray,
-329,Copa,LOT Polish,lightgray,
-330,Copa,Lufthansa,lightgray,
-331,Copa,SAS,lightgray,
-332,Copa,Shenzhen,lightgray,
-333,Copa,Singapore,lightgray,
-334,Copa,Swiss,lightgray,
-335,Copa,TAP,lightgray,
-336,Copa,Thai,lightgray,
-337,Copa,Turkish,lightgray,
-338,Copa,United,lightgray,
-339,CROATIA,EGYPTAIR,lightgray,
-340,CROATIA,Ethiopian,lightgray,
-341,CROATIA,EVA,lightgray,
-342,CROATIA,LOT Polish,lightgray,
-343,CROATIA,Lufthansa,lightgray,
-344,CROATIA,SAS,lightgray,
-345,CROATIA,Shenzhen,lightgray,
-346,CROATIA,Singapore,lightgray,
-347,CROATIA,Swiss,lightgray,
-348,CROATIA,TAP,lightgray,
-349,CROATIA,Thai,lightgray,
-350,CROATIA,Turkish,lightgray,
-351,CROATIA,United,lightgray,
-352,EGYPTAIR,Ethiopian,lightgray,
-353,EGYPTAIR,EVA,lightgray,
-354,EGYPTAIR,LOT Polish,lightgray,
-355,EGYPTAIR,Lufthansa,lightgray,
-356,EGYPTAIR,SAS,lightgray,
-357,EGYPTAIR,Shenzhen,lightgray,
-358,EGYPTAIR,Singapore,lightgray,
-359,EGYPTAIR,Swiss,lightgray,
-360,EGYPTAIR,TAP,lightgray,
-361,EGYPTAIR,Thai,lightgray,
-362,EGYPTAIR,Turkish,lightgray,
-363,EGYPTAIR,United,lightgray,
-364,Ethiopian,EVA,lightgray,
-365,Ethiopian,LOT Polish,lightgray,
-366,Ethiopian,Lufthansa,lightgray,
-367,Ethiopian,SAS,lightgray,
-368,Ethiopian,Shenzhen,lightgray,
-369,Ethiopian,Singapore,lightgray,
-370,Ethiopian,Swiss,lightgray,
-371,Ethiopian,TAP,lightgray,
-372,Ethiopian,Thai,lightgray,
-373,Ethiopian,Turkish,lightgray,
-374,Ethiopian,United,lightgray,
-375,EVA,LOT Polish,lightgray,
-376,EVA,Lufthansa,lightgray,
-377,EVA,SAS,lightgray,
-378,EVA,Shenzhen,lightgray,
-379,EVA,Singapore,lightgray,
-380,EVA,Swiss,lightgray,
-381,EVA,TAP,lightgray,
-382,EVA,Thai,lightgray,
-383,EVA,Turkish,lightgray,
-384,EVA,United,lightgray,
-385,LOT Polish,Lufthansa,lightgray,
-386,LOT Polish,SAS,lightgray,
-387,LOT Polish,Shenzhen,lightgray,
-388,LOT Polish,Singapore,lightgray,
-389,LOT Polish,Swiss,lightgray,
-390,LOT Polish,TAP,lightgray,
-391,LOT Polish,Thai,lightgray,
-392,LOT Polish,Turkish,lightgray,
-393,LOT Polish,United,lightgray,
-394,Lufthansa,SAS,lightgray,
-395,Lufthansa,Shenzhen,lightgray,
-396,Lufthansa,Singapore,lightgray,
-397,Lufthansa,Swiss,lightgray,
-398,Lufthansa,TAP,lightgray,
-399,Lufthansa,Thai,lightgray,
-400,Lufthansa,Turkish,lightgray,
-401,Lufthansa,United,lightgray,
-402,SAS,Shenzhen,lightgray,
-403,SAS,Singapore,lightgray,
-404,SAS,Swiss,lightgray,
-405,SAS,TAP,lightgray,
-406,SAS,Thai,lightgray,
-407,SAS,Turkish,lightgray,
-408,SAS,United,lightgray,
-409,SAS,Virgin Atlantic,lightgray,
-410,Shenzhen,Singapore,lightgray,
-411,Shenzhen,Swiss,lightgray,
-412,Shenzhen,TAP,lightgray,
-413,Shenzhen,Thai,lightgray,
-414,Shenzhen,Turkish,lightgray,
-415,Shenzhen,United,lightgray,
-416,Singapore,Swiss,lightgray,
-417,Singapore,TAP,lightgray,
-418,Singapore,Thai,lightgray,
-419,Singapore,Turkish,lightgray,
-420,Singapore,United,lightgray,
-421,Singapore,Alaska,lightgray,
-422,Singapore,Virgin Atlantic,lightgray,
-423,Singapore,Virgin Australia,lightgray,
-424,Singapore,JetBlue,lightgray,
-425,Swiss,TAP,lightgray,
-426,Swiss,Thai,lightgray,
-427,Swiss,Turkish,lightgray,
-428,Swiss,United,lightgray,
-429,TAP,Thai,lightgray,
-430,TAP,Turkish,lightgray,
-431,TAP,United,lightgray,
-432,Thai,Turkish,lightgray,
-433,Thai,United,lightgray,
-434,Turkish,United,lightgray,
-435,United,Virgin Australia,lightgray,
-436,Alaska,American,lightgray,
-437,Alaska,British,lightgray,
-438,Alaska,CATHAY,lightgray,
-439,Alaska,FINNAIR,lightgray,
-440,Alaska,Iberia,lightgray,
-441,Alaska,JAL,lightgray,
-442,Alaska,Malaysia,lightgray,
-443,Alaska,Qantas,lightgray,
-444,Alaska,Qatar,lightgray,
-445,Alaska,Royal Air Morac,lightgray,
-446,Alaska,Royal Jordanian,lightgray,
-447,Alaska,Srilankan,lightgray,
-448,Alaska,FIJI,lightgray,
-449,Alaska,OMAN,lightgray,
-450,Alaska,Air Tahiti Nui,lightgray,
-451,Alaska,Condor,lightgray,
-452,Alaska,Israel,lightgray,
-453,Alaska,Hainan,lightgray,
-454,Alaska,Icelandair,lightgray,
-455,Alaska,Korean,lightgray,
-456,Alaska,LATAM,lightgray,
-457,Alaska,Ravn Alaska,lightgray,
-458,Alaska,STARLUX,lightgray,
-459,American,British,lightgray,
-460,American,CATHAY,lightgray,
-461,American,FINNAIR,lightgray,
-462,American,Iberia,lightgray,
-463,American,JAL,lightgray,
-464,American,Malaysia,lightgray,
-465,American,Qantas,lightgray,
-466,American,Qatar,lightgray,
-467,American,Royal Air Morac,lightgray,
-468,American,Royal Jordanian,lightgray,
-469,American,Srilankan,lightgray,
-470,American,FIJI,lightgray,
-471,American,OMAN,lightgray,
-472,British,CATHAY,lightgray,
-473,British,FINNAIR,lightgray,
-474,British,Iberia,lightgray,
-475,British,JAL,lightgray,
-476,British,Malaysia,lightgray,
-477,British,Qantas,lightgray,
-478,British,Qatar,lightgray,
-479,British,Royal Air Morac,lightgray,
-480,British,Royal Jordanian,lightgray,
-481,British,Srilankan,lightgray,
-482,British,FIJI,lightgray,
-483,British,OMAN,lightgray,
-484,British,Vueling,lightgray,
-485,CATHAY,FINNAIR,lightgray,
-486,CATHAY,Iberia,lightgray,
-487,CATHAY,JAL,lightgray,
-488,CATHAY,Malaysia,lightgray,
-489,CATHAY,Qantas,lightgray,
-490,CATHAY,Qatar,lightgray,
-491,CATHAY,Royal Air Morac,lightgray,
-492,CATHAY,Royal Jordanian,lightgray,
-493,CATHAY,Srilankan,lightgray,
-494,CATHAY,FIJI,lightgray,
-495,CATHAY,OMAN,lightgray,
-496,FINNAIR,Iberia,lightgray,
-497,FINNAIR,JAL,lightgray,
-498,FINNAIR,Malaysia,lightgray,
-499,FINNAIR,Qantas,lightgray,
-500,FINNAIR,Qatar,lightgray,
-501,FINNAIR,Royal Air Morac,lightgray,
-502,FINNAIR,Royal Jordanian,lightgray,
-503,FINNAIR,Srilankan,lightgray,
-504,FINNAIR,FIJI,lightgray,
-505,FINNAIR,OMAN,lightgray,
-506,FINNAIR,Vueling,lightgray,
-507,Iberia,JAL,lightgray,
-508,Iberia,Malaysia,lightgray,
-509,Iberia,Qantas,lightgray,
-510,Iberia,Qatar,lightgray,
-511,Iberia,Royal Air Morac,lightgray,
-512,Iberia,Royal Jordanian,lightgray,
-513,Iberia,Srilankan,lightgray,
-514,Iberia,FIJI,lightgray,
-515,Iberia,OMAN,lightgray,
-516,Iberia,Vueling,lightgray,
-517,JAL,Malaysia,lightgray,
-518,JAL,Qantas,lightgray,
-519,JAL,Qatar,lightgray,
-520,JAL,Royal Air Morac,lightgray,
-521,JAL,Royal Jordanian,lightgray,
-522,JAL,Srilankan,lightgray,
-523,JAL,FIJI,lightgray,
-524,JAL,OMAN,lightgray,
-525,JAL,S7,lightgray,
-526,JAL,AirFrance,lightgray,
-527,JAL,Bangkok,lightgray,
-528,JAL,China Eastern,lightgray,
-529,JAL,Emirates,lightgray,
-530,JAL,Hawaiian,lightgray,
-531,JAL,Korean,lightgray,
-532,JAL,LATAM,lightgray,
-533,JAL,Vistara,lightgray,
-534,JAL,Jetstar,lightgray,
-535,Malaysia,Qantas,lightgray,
-536,Malaysia,Qatar,lightgray,
-537,Malaysia,Royal Air Morac,lightgray,
-538,Malaysia,Royal Jordanian,lightgray,
-539,Malaysia,Srilankan,lightgray,
-540,Malaysia,FIJI,lightgray,
-541,Malaysia,OMAN,lightgray,
-542,Qantas,Qatar,lightgray,
-543,Qantas,Royal Air Morac,lightgray,
-544,Qantas,Royal Jordanian,lightgray,
-545,Qantas,Srilankan,lightgray,
-546,Qantas,FIJI,lightgray,
-547,Qantas,OMAN,lightgray,
-548,Qatar,Royal Air Morac,lightgray,
-549,Qatar,Royal Jordanian,lightgray,
-550,Qatar,Srilankan,lightgray,
-551,Qatar,FIJI,lightgray,
-552,Qatar,OMAN,lightgray,
-553,Qatar,Vueling,lightgray,
-554,Qatar,Virgin Australia,lightgray,
-555,Qatar,JetBlue,lightgray,
-556,Royal Air Morac,Royal Jordanian,lightgray,
-557,Royal Air Morac,Srilankan,lightgray,
-558,Royal Air Morac,FIJI,lightgray,
-559,Royal Air Morac,OMAN,lightgray,
-560,Royal Jordanian,Srilankan,lightgray,
-561,Royal Jordanian,FIJI,lightgray,
-562,Royal Jordanian,OMAN,lightgray,
-563,Srilankan,FIJI,lightgray,
-564,Srilankan,OMAN,lightgray,
-565,FIJI,OMAN,lightgray,
-566,AeroArgentina,AeroMexico,lightgray,
-567,AeroArgentina,AirEuropa,lightgray,
-568,AeroArgentina,AirFrance,lightgray,
-569,AeroArgentina,China Airlines,lightgray,
-570,AeroArgentina,China Eastern,lightgray,
-571,AeroArgentina,CZECH,lightgray,
-572,AeroArgentina,DELTA,lightgray,
-573,AeroArgentina,Garuda,lightgray,
-574,AeroArgentina,ITA,lightgray,
-575,AeroArgentina,Kenya,lightgray,
-576,AeroArgentina,KLM,lightgray,
-577,AeroArgentina,Korean,lightgray,
-578,AeroArgentina,MEA,lightgray,
-579,AeroArgentina,Saudia,lightgray,
-580,AeroArgentina,TARDM,lightgray,
-581,AeroArgentina,Vietnam,lightgray,
-582,AeroArgentina,Virgin Atlantic,lightgray,
-583,AeroArgentina,XIAMENAIR,lightgray,
-584,AeroMexico,AirEuropa,lightgray,
-585,AeroMexico,AirFrance,lightgray,
-586,AeroMexico,China Airlines,lightgray,
-587,AeroMexico,China Eastern,lightgray,
-588,AeroMexico,CZECH,lightgray,
-589,AeroMexico,DELTA,lightgray,
-590,AeroMexico,Garuda,lightgray,
-591,AeroMexico,ITA,lightgray,
-592,AeroMexico,Kenya,lightgray,
-593,AeroMexico,KLM,lightgray,
-594,AeroMexico,Korean,lightgray,
-595,AeroMexico,MEA,lightgray,
-596,AeroMexico,Saudia,lightgray,
-597,AeroMexico,TARDM,lightgray,
-598,AeroMexico,Vietnam,lightgray,
-599,AeroMexico,Virgin Atlantic,lightgray,
-600,AeroMexico,XIAMENAIR,lightgray,
-601,AirEuropa,AirFrance,lightgray,
-602,AirEuropa,China Airlines,lightgray,
-603,AirEuropa,China Eastern,lightgray,
-604,AirEuropa,CZECH,lightgray,
-605,AirEuropa,DELTA,lightgray,
-606,AirEuropa,Garuda,lightgray,
-607,AirEuropa,ITA,lightgray,
-608,AirEuropa,Kenya,lightgray,
-609,AirEuropa,KLM,lightgray,
-610,AirEuropa,Korean,lightgray,
-611,AirEuropa,MEA,lightgray,
-612,AirEuropa,Saudia,lightgray,
-613,AirEuropa,TARDM,lightgray,
-614,AirEuropa,Vietnam,lightgray,
-615,AirEuropa,Virgin Atlantic,lightgray,
-616,AirEuropa,XIAMENAIR,lightgray,
-617,AirFrance,China Airlines,lightgray,
-618,AirFrance,China Eastern,lightgray,
-619,AirFrance,CZECH,lightgray,
-620,AirFrance,DELTA,lightgray,
-621,AirFrance,Garuda,lightgray,
-622,AirFrance,ITA,lightgray,
-623,AirFrance,Kenya,lightgray,
-624,AirFrance,KLM,lightgray,
-625,AirFrance,Korean,lightgray,
-626,AirFrance,MEA,lightgray,
-627,AirFrance,Saudia,lightgray,
-628,AirFrance,TARDM,lightgray,
-629,AirFrance,Vietnam,lightgray,
-630,AirFrance,Virgin Atlantic,lightgray,
-631,AirFrance,XIAMENAIR,lightgray,
-632,China Airlines,China Eastern,lightgray,
-633,China Airlines,CZECH,lightgray,
-634,China Airlines,DELTA,lightgray,
-635,China Airlines,Garuda,lightgray,
-636,China Airlines,ITA,lightgray,
-637,China Airlines,Kenya,lightgray,
-638,China Airlines,KLM,lightgray,
-639,China Airlines,Korean,lightgray,
-640,China Airlines,MEA,lightgray,
-641,China Airlines,Saudia,lightgray,
-642,China Airlines,TARDM,lightgray,
-643,China Airlines,Vietnam,lightgray,
-644,China Airlines,Virgin Atlantic,lightgray,
-645,China Airlines,XIAMENAIR,lightgray,
-646,China Eastern,CZECH,lightgray,
-647,China Eastern,DELTA,lightgray,
-648,China Eastern,Garuda,lightgray,
-649,China Eastern,ITA,lightgray,
-650,China Eastern,Kenya,lightgray,
-651,China Eastern,KLM,lightgray,
-652,China Eastern,Korean,lightgray,
-653,China Eastern,MEA,lightgray,
-654,China Eastern,Saudia,lightgray,
-655,China Eastern,TARDM,lightgray,
-656,China Eastern,Vietnam,lightgray,
-657,China Eastern,Virgin Atlantic,lightgray,
-658,China Eastern,XIAMENAIR,lightgray,
-659,CZECH,DELTA,lightgray,
-660,CZECH,Garuda,lightgray,
-661,CZECH,ITA,lightgray,
-662,CZECH,Kenya,lightgray,
-663,CZECH,KLM,lightgray,
-664,CZECH,Korean,lightgray,
-665,CZECH,MEA,lightgray,
-666,CZECH,Saudia,lightgray,
-667,CZECH,TARDM,lightgray,
-668,CZECH,Vietnam,lightgray,
-669,CZECH,Virgin Atlantic,lightgray,
-670,CZECH,XIAMENAIR,lightgray,
-671,DELTA,Garuda,lightgray,
-672,DELTA,ITA,lightgray,
-673,DELTA,Kenya,lightgray,
-674,DELTA,KLM,lightgray,
-675,DELTA,Korean,lightgray,
-676,DELTA,MEA,lightgray,
-677,DELTA,Saudia,lightgray,
-678,DELTA,TARDM,lightgray,
-679,DELTA,Vietnam,lightgray,
-680,DELTA,Virgin Atlantic,lightgray,
-681,DELTA,XIAMENAIR,lightgray,
-682,Garuda,ITA,lightgray,
-683,Garuda,Kenya,lightgray,
-684,Garuda,KLM,lightgray,
-685,Garuda,Korean,lightgray,
-686,Garuda,MEA,lightgray,
-687,Garuda,Saudia,lightgray,
-688,Garuda,TARDM,lightgray,
-689,Garuda,Vietnam,lightgray,
-690,Garuda,Virgin Atlantic,lightgray,
-691,Garuda,XIAMENAIR,lightgray,
-692,ITA,Kenya,lightgray,
-693,ITA,KLM,lightgray,
-694,ITA,Korean,lightgray,
-695,ITA,MEA,lightgray,
-696,ITA,Saudia,lightgray,
-697,ITA,TARDM,lightgray,
-698,ITA,Vietnam,lightgray,
-699,ITA,Virgin Atlantic,lightgray,
-700,ITA,XIAMENAIR,lightgray,
-701,Kenya,KLM,lightgray,
-702,Kenya,Korean,lightgray,
-703,Kenya,MEA,lightgray,
-704,Kenya,Saudia,lightgray,
-705,Kenya,TARDM,lightgray,
-706,Kenya,Vietnam,lightgray,
-707,Kenya,Virgin Atlantic,lightgray,
-708,Kenya,XIAMENAIR,lightgray,
-709,KLM,Korean,lightgray,
-710,KLM,MEA,lightgray,
-711,KLM,Saudia,lightgray,
-712,KLM,TARDM,lightgray,
-713,KLM,Vietnam,lightgray,
-714,KLM,Virgin Atlantic,lightgray,
-715,KLM,XIAMENAIR,lightgray,
-716,Korean,MEA,lightgray,
-717,Korean,Saudia,lightgray,
-718,Korean,TARDM,lightgray,
-719,Korean,Vietnam,lightgray,
-720,Korean,Virgin Atlantic,lightgray,
-721,Korean,XIAMENAIR,lightgray,
-722,MEA,Saudia,lightgray,
-723,MEA,TARDM,lightgray,
-724,MEA,Vietnam,lightgray,
-725,MEA,Virgin Atlantic,lightgray,
-726,MEA,XIAMENAIR,lightgray,
-727,Saudia,TARDM,lightgray,
-728,Saudia,Vietnam,lightgray,
-729,Saudia,Virgin Atlantic,lightgray,
-730,Saudia,XIAMENAIR,lightgray,
-731,TARDM,Vietnam,lightgray,
-732,TARDM,Virgin Atlantic,lightgray,
-733,TARDM,XIAMENAIR,lightgray,
-734,Vietnam,Virgin Atlantic,lightgray,
-735,Vietnam,XIAMENAIR,lightgray,
-736,Virgin Atlantic,XIAMENAIR,lightgray,
-737,Virgin Atlantic,Hawaiian,lightgray,
-738,Virgin Atlantic,Indigo,lightgray,
-739,Virgin Atlantic,LATAM,lightgray,
-740,Virgin Atlantic,South African,lightgray,
-741,Virgin Atlantic,Virgin Australia,lightgray,
-742,Hainan,Virgin Australia,lightgray,
-743,Icelandair,JetBlue,lightgray,
-744,Hawaiian,Virgin Australia,lightgray,
-745,Hawaiian,JetBlue,lightgray,
-746,South African,Virgin Australia,lightgray,
-747,South African,JetBlue,lightgray,
-748,Virgin Australia,Etihad,lightgray,
-749,Virgin Australia,HongKong,lightgray,
-750,Virgin Australia,Capital,lightgray,
-751,Virgin Australia,Tianjin,lightgray,
-752,Virgin Australia,LINK,lightgray,
-753,Virgin Australia,PELICAN,lightgray,
-754,JetBlue,JSX,lightgray,
-755,JetBlue,Silver,lightgray,
+,source,target,title,color
+0,A,M,1:1,#3EADA5
+1,A,AirFrance,1:1,#3EADA5
+2,A,KLM,1:1,#3EADA5
+3,A,Air Canada,1:1,#3EADA5
+4,A,ANA,1:1,#3EADA5
+5,A,Lifemiles,1:1,#3EADA5
+6,A,British,1:1,#3EADA5
+7,A,Virgin Atlantic,1:1,#3EADA5
+8,A,Aer Lingus,1:1,#3EADA5
+9,A,AeroMexico,1:1,#3EADA5
+10,A,CATHAY,1:1,#3EADA5
+11,A,DELTA,1:1,#3EADA5
+12,A,Emirates,1:1,#3EADA5
+13,A,Hawaiian,1:1,#3EADA5
+14,A,Iberia,1:1,#3EADA5
+15,A,JetBlue,1:1,#3EADA5
+16,A,Qantas,1:1,#3EADA5
+17,A,Qatar,1:1,#3EADA5
+18,A,Singapore,1:1,#3EADA5
+19,B,M,1:1,#7D7D7D
+20,B,Alaska,1:1,#7D7D7D
+21,B,American,1:1,#7D7D7D
+22,B,AirFrance,1:1,#7D7D7D
+23,B,KLM,1:1,#7D7D7D
+24,B,Air Canada,1:1,#7D7D7D
+25,B,United,1:1,#7D7D7D
+26,B,Virgin Atlantic,1:1,#7D7D7D
+27,B,Turkish,1:1,#7D7D7D
+28,B,British,1:1,#7D7D7D
+29,B,CATHAY,1:1,#7D7D7D
+30,B,Lifemiles,1:1,#7D7D7D
+31,B,Iberia,1:1,#7D7D7D
+32,B,Aer Lingus,1:1,#7D7D7D
+33,B,Emirates,1:1,#7D7D7D
+34,B,Hawaiian,1:1,#7D7D7D
+35,Ci,AeroMexico,1:1,#E09233
+36,Ci,Lifemiles,1:1,#E09233
+37,Ci,CATHAY,1:1,#E09233
+38,Ci,Emirates,1:1,#E09233
+39,Ci,Etihad,1:1,#E09233
+40,Ci,EVA,1:1,#E09233
+41,Ci,AirFrance,1:1,#E09233
+42,Ci,KLM,1:1,#E09233
+43,Ci,JetBlue,1:1,#E09233
+44,Ci,Qantas,1:1,#E09233
+45,Ci,Qatar,1:1,#E09233
+46,Ci,Singapore,1:1,#E09233
+47,Ci,Thai,1:1,#E09233
+48,Ci,Turkish,1:1,#E09233
+49,Ci,Virgin Atlantic,1:1,#E09233
+50,Ch,M,1:1,#4478BC
+51,Ch,Aer Lingus,1:1,#4478BC
+52,Ch,Air Canada,1:1,#4478BC
+53,Ch,British,1:1,#4478BC
+54,Ch,AirFrance,1:1,#4478BC
+55,Ch,KLM,1:1,#4478BC
+56,Ch,Iberia,1:1,#4478BC
+57,Ch,Singapore,1:1,#4478BC
+58,Ch,JetBlue,1:1,#4478BC
+59,Ch,Southwest,1:1,#4478BC
+60,Ch,United,1:1,#4478BC
+61,Ch,Virgin Atlantic,1:1,#4478BC
+62,Co,AirFrance,1:1,#284278
+63,Co,KLM,1:1,#284278
+64,Co,Virgin Atlantic,1:1,#284278
+65,Co,AeroMexico,1:1,#284278
+66,Co,Air Canada,1:1,#284278
+67,Co,CATHAY,1:1,#284278
+68,Co,Lifemiles,1:1,#284278
+69,Co,British,1:1,#284278
+70,Co,Emirates,1:1,#284278
+71,Co,Etihad,1:1,#284278
+72,Co,EVA,1:1,#284278
+73,Co,FINNAIR,1:1,#284278
+74,Co,Qantas,1:1,#284278
+75,Co,TAP,1:1,#284278
+76,Co,Singapore,1:1,#284278
+77,Co,Turkish,1:1,#284278
+78,M,Aegean,3:1,#FFEB98
+79,M,Aer Lingus,3:1,#FFEB98
+80,M,AeroMexico,3:1,#FFEB98
+81,M,Air Canada,3:1,#FFEB98
+82,M,Air China,3:1,#FFEB98
+83,M,AirFrance,3:1,#FFEB98
+84,M,KLM,3:1,#FFEB98
+85,M,Alaska,3:1,#FFEB98
+86,M,American,3:1,#FFEB98
+87,M,ANA,3:1,#FFEB98
+88,M,ASIANA,3:1,#FFEB98
+89,M,China Southern,3:1,#FFEB98
+90,M,Copa,3:1,#FFEB98
+91,M,DELTA,3:1,#FFEB98
+92,M,Emirates,3:1,#FFEB98
+93,M,Etihad,3:1,#FFEB98
+94,M,FRONTIER,3:1,#FFEB98
+95,M,Hainan,3:1,#FFEB98
+96,M,Hawaiian,3:1,#FFEB98
+97,M,Iberia,3:1,#FFEB98
+98,M,InterMiles,3:1,#FFEB98
+99,M,JAL,3:1,#FFEB98
+100,M,Korean,3:1,#FFEB98
+101,M,LATAM,3:1,#FFEB98
+102,M,Qantas,3:1,#FFEB98
+103,M,Qatar,3:1,#FFEB98
+104,M,Saudia,3:1,#FFEB98
+105,M,Singapore,3:1,#FFEB98
+106,M,Southwest,3:1,#FFEB98
+107,M,TAP,3:1,#FFEB98
+108,M,Thai,3:1,#FFEB98
+109,M,Turkish,3:1,#FFEB98
+110,M,United,3:1,#FFEB98
+111,M,Virgin Atlantic,3:1,#FFEB98
+112,M,Virgin Australia,3:1,#FFEB98
+113,M,Vueling,3:1,#FFEB98
+114,W,Lifemiles,1:1,#AA2D35
+115,W,AirFrance,1:1,#AA2D35
+116,W,KLM,1:1,#AA2D35
+117,W,British,1:1,#AA2D35
+118,W,Iberia,1:1,#AA2D35
+119,W,Aer Lingus,1:1,#AA2D35
+120,Aer Lingus,Vueling,,lightgray
+121,Aer Lingus,Qatar,,lightgray
+122,Aer Lingus,Iberia,,lightgray
+123,Aer Lingus,British,,lightgray
+124,Aer Lingus,FINNAIR,,lightgray
+125,Aer Lingus,Alaska,,lightgray
+126,Aegean,Air Canada,,lightgray
+127,Aegean,Air China,,lightgray
+128,Aegean,Air India,,lightgray
+129,Aegean,Air New Zealand,,lightgray
+130,Aegean,ANA,,lightgray
+131,Aegean,ASIANA,,lightgray
+132,Aegean,Austrian,,lightgray
+133,Aegean,Lifemiles,,lightgray
+134,Aegean,Brussels,,lightgray
+135,Aegean,Copa,,lightgray
+136,Aegean,CROATIA,,lightgray
+137,Aegean,EGYPTAIR,,lightgray
+138,Aegean,Ethiopian,,lightgray
+139,Aegean,EVA,,lightgray
+140,Aegean,LOT Polish,,lightgray
+141,Aegean,Lufthansa,,lightgray
+142,Aegean,SAS,,lightgray
+143,Aegean,Shenzhen,,lightgray
+144,Aegean,Singapore,,lightgray
+145,Aegean,Swiss,,lightgray
+146,Aegean,TAP,,lightgray
+147,Aegean,Thai,,lightgray
+148,Aegean,Turkish,,lightgray
+149,Aegean,United,,lightgray
+150,Air Canada,Air China,,lightgray
+151,Air Canada,Air India,,lightgray
+152,Air Canada,Air New Zealand,,lightgray
+153,Air Canada,ANA,,lightgray
+154,Air Canada,ASIANA,,lightgray
+155,Air Canada,Austrian,,lightgray
+156,Air Canada,Lifemiles,,lightgray
+157,Air Canada,Brussels,,lightgray
+158,Air Canada,Copa,,lightgray
+159,Air Canada,CROATIA,,lightgray
+160,Air Canada,EGYPTAIR,,lightgray
+161,Air Canada,Ethiopian,,lightgray
+162,Air Canada,EVA,,lightgray
+163,Air Canada,LOT Polish,,lightgray
+164,Air Canada,Lufthansa,,lightgray
+165,Air Canada,SAS,,lightgray
+166,Air Canada,Shenzhen,,lightgray
+167,Air Canada,Singapore,,lightgray
+168,Air Canada,Swiss,,lightgray
+169,Air Canada,TAP,,lightgray
+170,Air Canada,Thai,,lightgray
+171,Air Canada,Turkish,,lightgray
+172,Air Canada,United,,lightgray
+173,Air Canada,Virgin Australia,,lightgray
+174,Air Canada,Etihad,,lightgray
+175,Air China,Air India,,lightgray
+176,Air China,Air New Zealand,,lightgray
+177,Air China,ANA,,lightgray
+178,Air China,ASIANA,,lightgray
+179,Air China,Austrian,,lightgray
+180,Air China,Lifemiles,,lightgray
+181,Air China,Brussels,,lightgray
+182,Air China,Copa,,lightgray
+183,Air China,CROATIA,,lightgray
+184,Air China,EGYPTAIR,,lightgray
+185,Air China,Ethiopian,,lightgray
+186,Air China,EVA,,lightgray
+187,Air China,LOT Polish,,lightgray
+188,Air China,Lufthansa,,lightgray
+189,Air China,SAS,,lightgray
+190,Air China,Shenzhen,,lightgray
+191,Air China,Singapore,,lightgray
+192,Air China,Swiss,,lightgray
+193,Air China,TAP,,lightgray
+194,Air China,Thai,,lightgray
+195,Air China,Turkish,,lightgray
+196,Air China,United,,lightgray
+197,Air India,Air New Zealand,,lightgray
+198,Air India,ANA,,lightgray
+199,Air India,ASIANA,,lightgray
+200,Air India,Austrian,,lightgray
+201,Air India,Lifemiles,,lightgray
+202,Air India,Brussels,,lightgray
+203,Air India,Copa,,lightgray
+204,Air India,CROATIA,,lightgray
+205,Air India,EGYPTAIR,,lightgray
+206,Air India,Ethiopian,,lightgray
+207,Air India,EVA,,lightgray
+208,Air India,LOT Polish,,lightgray
+209,Air India,Lufthansa,,lightgray
+210,Air India,SAS,,lightgray
+211,Air India,Shenzhen,,lightgray
+212,Air India,Singapore,,lightgray
+213,Air India,Swiss,,lightgray
+214,Air India,TAP,,lightgray
+215,Air India,Thai,,lightgray
+216,Air India,Turkish,,lightgray
+217,Air India,United,,lightgray
+218,Air New Zealand,ANA,,lightgray
+219,Air New Zealand,ASIANA,,lightgray
+220,Air New Zealand,Austrian,,lightgray
+221,Air New Zealand,Lifemiles,,lightgray
+222,Air New Zealand,Brussels,,lightgray
+223,Air New Zealand,Copa,,lightgray
+224,Air New Zealand,CROATIA,,lightgray
+225,Air New Zealand,EGYPTAIR,,lightgray
+226,Air New Zealand,Ethiopian,,lightgray
+227,Air New Zealand,EVA,,lightgray
+228,Air New Zealand,LOT Polish,,lightgray
+229,Air New Zealand,Lufthansa,,lightgray
+230,Air New Zealand,SAS,,lightgray
+231,Air New Zealand,Shenzhen,,lightgray
+232,Air New Zealand,Singapore,,lightgray
+233,Air New Zealand,Swiss,,lightgray
+234,Air New Zealand,TAP,,lightgray
+235,Air New Zealand,Thai,,lightgray
+236,Air New Zealand,Turkish,,lightgray
+237,Air New Zealand,United,,lightgray
+238,Air New Zealand,Virgin Atlantic,,lightgray
+239,Air New Zealand,Etihad,,lightgray
+240,ANA,ASIANA,,lightgray
+241,ANA,Austrian,,lightgray
+242,ANA,Lifemiles,,lightgray
+243,ANA,Brussels,,lightgray
+244,ANA,Copa,,lightgray
+245,ANA,CROATIA,,lightgray
+246,ANA,EGYPTAIR,,lightgray
+247,ANA,Ethiopian,,lightgray
+248,ANA,EVA,,lightgray
+249,ANA,LOT Polish,,lightgray
+250,ANA,Lufthansa,,lightgray
+251,ANA,SAS,,lightgray
+252,ANA,Shenzhen,,lightgray
+253,ANA,Singapore,,lightgray
+254,ANA,Swiss,,lightgray
+255,ANA,TAP,,lightgray
+256,ANA,Thai,,lightgray
+257,ANA,Turkish,,lightgray
+258,ANA,United,,lightgray
+259,ANA,Virgin Atlantic,,lightgray
+260,ANA,Virgin Australia,,lightgray
+261,ANA,Etihad,,lightgray
+262,ASIANA,Austrian,,lightgray
+263,ASIANA,Lifemiles,,lightgray
+264,ASIANA,Brussels,,lightgray
+265,ASIANA,Copa,,lightgray
+266,ASIANA,CROATIA,,lightgray
+267,ASIANA,EGYPTAIR,,lightgray
+268,ASIANA,Ethiopian,,lightgray
+269,ASIANA,EVA,,lightgray
+270,ASIANA,LOT Polish,,lightgray
+271,ASIANA,Lufthansa,,lightgray
+272,ASIANA,SAS,,lightgray
+273,ASIANA,Shenzhen,,lightgray
+274,ASIANA,Singapore,,lightgray
+275,ASIANA,Swiss,,lightgray
+276,ASIANA,TAP,,lightgray
+277,ASIANA,Thai,,lightgray
+278,ASIANA,Turkish,,lightgray
+279,ASIANA,United,,lightgray
+280,ASIANA,Etihad,,lightgray
+281,Austrian,Lifemiles,,lightgray
+282,Austrian,Brussels,,lightgray
+283,Austrian,Copa,,lightgray
+284,Austrian,CROATIA,,lightgray
+285,Austrian,EGYPTAIR,,lightgray
+286,Austrian,Ethiopian,,lightgray
+287,Austrian,EVA,,lightgray
+288,Austrian,LOT Polish,,lightgray
+289,Austrian,Lufthansa,,lightgray
+290,Austrian,SAS,,lightgray
+291,Austrian,Shenzhen,,lightgray
+292,Austrian,Singapore,,lightgray
+293,Austrian,Swiss,,lightgray
+294,Austrian,TAP,,lightgray
+295,Austrian,Thai,,lightgray
+296,Austrian,Turkish,,lightgray
+297,Austrian,United,,lightgray
+298,Lifemiles,Brussels,,lightgray
+299,Lifemiles,Copa,,lightgray
+300,Lifemiles,CROATIA,,lightgray
+301,Lifemiles,EGYPTAIR,,lightgray
+302,Lifemiles,Ethiopian,,lightgray
+303,Lifemiles,EVA,,lightgray
+304,Lifemiles,LOT Polish,,lightgray
+305,Lifemiles,Lufthansa,,lightgray
+306,Lifemiles,SAS,,lightgray
+307,Lifemiles,Shenzhen,,lightgray
+308,Lifemiles,Singapore,,lightgray
+309,Lifemiles,Swiss,,lightgray
+310,Lifemiles,TAP,,lightgray
+311,Lifemiles,Thai,,lightgray
+312,Lifemiles,Turkish,,lightgray
+313,Lifemiles,United,,lightgray
+314,Brussels,Copa,,lightgray
+315,Brussels,CROATIA,,lightgray
+316,Brussels,EGYPTAIR,,lightgray
+317,Brussels,Ethiopian,,lightgray
+318,Brussels,EVA,,lightgray
+319,Brussels,LOT Polish,,lightgray
+320,Brussels,Lufthansa,,lightgray
+321,Brussels,SAS,,lightgray
+322,Brussels,Shenzhen,,lightgray
+323,Brussels,Singapore,,lightgray
+324,Brussels,Swiss,,lightgray
+325,Brussels,TAP,,lightgray
+326,Brussels,Thai,,lightgray
+327,Brussels,Turkish,,lightgray
+328,Brussels,United,,lightgray
+329,Brussels,Etihad,,lightgray
+330,Copa,CROATIA,,lightgray
+331,Copa,EGYPTAIR,,lightgray
+332,Copa,Ethiopian,,lightgray
+333,Copa,EVA,,lightgray
+334,Copa,LOT Polish,,lightgray
+335,Copa,Lufthansa,,lightgray
+336,Copa,SAS,,lightgray
+337,Copa,Shenzhen,,lightgray
+338,Copa,Singapore,,lightgray
+339,Copa,Swiss,,lightgray
+340,Copa,TAP,,lightgray
+341,Copa,Thai,,lightgray
+342,Copa,Turkish,,lightgray
+343,Copa,United,,lightgray
+344,CROATIA,EGYPTAIR,,lightgray
+345,CROATIA,Ethiopian,,lightgray
+346,CROATIA,EVA,,lightgray
+347,CROATIA,LOT Polish,,lightgray
+348,CROATIA,Lufthansa,,lightgray
+349,CROATIA,SAS,,lightgray
+350,CROATIA,Shenzhen,,lightgray
+351,CROATIA,Singapore,,lightgray
+352,CROATIA,Swiss,,lightgray
+353,CROATIA,TAP,,lightgray
+354,CROATIA,Thai,,lightgray
+355,CROATIA,Turkish,,lightgray
+356,CROATIA,United,,lightgray
+357,EGYPTAIR,Ethiopian,,lightgray
+358,EGYPTAIR,EVA,,lightgray
+359,EGYPTAIR,LOT Polish,,lightgray
+360,EGYPTAIR,Lufthansa,,lightgray
+361,EGYPTAIR,SAS,,lightgray
+362,EGYPTAIR,Shenzhen,,lightgray
+363,EGYPTAIR,Singapore,,lightgray
+364,EGYPTAIR,Swiss,,lightgray
+365,EGYPTAIR,TAP,,lightgray
+366,EGYPTAIR,Thai,,lightgray
+367,EGYPTAIR,Turkish,,lightgray
+368,EGYPTAIR,United,,lightgray
+369,Ethiopian,EVA,,lightgray
+370,Ethiopian,LOT Polish,,lightgray
+371,Ethiopian,Lufthansa,,lightgray
+372,Ethiopian,SAS,,lightgray
+373,Ethiopian,Shenzhen,,lightgray
+374,Ethiopian,Singapore,,lightgray
+375,Ethiopian,Swiss,,lightgray
+376,Ethiopian,TAP,,lightgray
+377,Ethiopian,Thai,,lightgray
+378,Ethiopian,Turkish,,lightgray
+379,Ethiopian,United,,lightgray
+380,EVA,LOT Polish,,lightgray
+381,EVA,Lufthansa,,lightgray
+382,EVA,SAS,,lightgray
+383,EVA,Shenzhen,,lightgray
+384,EVA,Singapore,,lightgray
+385,EVA,Swiss,,lightgray
+386,EVA,TAP,,lightgray
+387,EVA,Thai,,lightgray
+388,EVA,Turkish,,lightgray
+389,EVA,United,,lightgray
+390,LOT Polish,Lufthansa,,lightgray
+391,LOT Polish,SAS,,lightgray
+392,LOT Polish,Shenzhen,,lightgray
+393,LOT Polish,Singapore,,lightgray
+394,LOT Polish,Swiss,,lightgray
+395,LOT Polish,TAP,,lightgray
+396,LOT Polish,Thai,,lightgray
+397,LOT Polish,Turkish,,lightgray
+398,LOT Polish,United,,lightgray
+399,Lufthansa,SAS,,lightgray
+400,Lufthansa,Shenzhen,,lightgray
+401,Lufthansa,Singapore,,lightgray
+402,Lufthansa,Swiss,,lightgray
+403,Lufthansa,TAP,,lightgray
+404,Lufthansa,Thai,,lightgray
+405,Lufthansa,Turkish,,lightgray
+406,Lufthansa,United,,lightgray
+407,SAS,Shenzhen,,lightgray
+408,SAS,Singapore,,lightgray
+409,SAS,Swiss,,lightgray
+410,SAS,TAP,,lightgray
+411,SAS,Thai,,lightgray
+412,SAS,Turkish,,lightgray
+413,SAS,United,,lightgray
+414,SAS,Virgin Atlantic,,lightgray
+415,SAS,Etihad,,lightgray
+416,Shenzhen,Singapore,,lightgray
+417,Shenzhen,Swiss,,lightgray
+418,Shenzhen,TAP,,lightgray
+419,Shenzhen,Thai,,lightgray
+420,Shenzhen,Turkish,,lightgray
+421,Shenzhen,United,,lightgray
+422,Singapore,Swiss,,lightgray
+423,Singapore,TAP,,lightgray
+424,Singapore,Thai,,lightgray
+425,Singapore,Turkish,,lightgray
+426,Singapore,United,,lightgray
+427,Singapore,Alaska,,lightgray
+428,Singapore,Virgin Atlantic,,lightgray
+429,Singapore,Virgin Australia,,lightgray
+430,Singapore,JetBlue,,lightgray
+431,Swiss,TAP,,lightgray
+432,Swiss,Thai,,lightgray
+433,Swiss,Turkish,,lightgray
+434,Swiss,United,,lightgray
+435,TAP,Thai,,lightgray
+436,TAP,Turkish,,lightgray
+437,TAP,United,,lightgray
+438,Thai,Turkish,,lightgray
+439,Thai,United,,lightgray
+440,Turkish,United,,lightgray
+441,United,Virgin Australia,,lightgray
+442,Alaska,American,,lightgray
+443,Alaska,British,,lightgray
+444,Alaska,CATHAY,,lightgray
+445,Alaska,FINNAIR,,lightgray
+446,Alaska,Iberia,,lightgray
+447,Alaska,JAL,,lightgray
+448,Alaska,Malaysia,,lightgray
+449,Alaska,Qantas,,lightgray
+450,Alaska,Qatar,,lightgray
+451,Alaska,Royal Air Morac,,lightgray
+452,Alaska,Royal Jordanian,,lightgray
+453,Alaska,Srilankan,,lightgray
+454,Alaska,FIJI,,lightgray
+455,Alaska,OMAN,,lightgray
+456,Alaska,Air Tahiti Nui,,lightgray
+457,Alaska,Condor,,lightgray
+458,Alaska,Israel,,lightgray
+459,Alaska,Hainan,,lightgray
+460,Alaska,Icelandair,,lightgray
+461,Alaska,Korean,,lightgray
+462,Alaska,LATAM,,lightgray
+463,Alaska,Ravn Alaska,,lightgray
+464,Alaska,STARLUX,,lightgray
+465,American,British,,lightgray
+466,American,CATHAY,,lightgray
+467,American,FINNAIR,,lightgray
+468,American,Iberia,,lightgray
+469,American,JAL,,lightgray
+470,American,Malaysia,,lightgray
+471,American,Qantas,,lightgray
+472,American,Qatar,,lightgray
+473,American,Royal Air Morac,,lightgray
+474,American,Royal Jordanian,,lightgray
+475,American,Srilankan,,lightgray
+476,American,FIJI,,lightgray
+477,American,OMAN,,lightgray
+478,American,China Southern,,lightgray
+479,American,Etihad,,lightgray
+480,British,CATHAY,,lightgray
+481,British,FINNAIR,,lightgray
+482,British,Iberia,,lightgray
+483,British,JAL,,lightgray
+484,British,Malaysia,,lightgray
+485,British,Qantas,,lightgray
+486,British,Qatar,,lightgray
+487,British,Royal Air Morac,,lightgray
+488,British,Royal Jordanian,,lightgray
+489,British,Srilankan,,lightgray
+490,British,FIJI,,lightgray
+491,British,OMAN,,lightgray
+492,British,Vueling,,lightgray
+493,CATHAY,FINNAIR,,lightgray
+494,CATHAY,Iberia,,lightgray
+495,CATHAY,JAL,,lightgray
+496,CATHAY,Malaysia,,lightgray
+497,CATHAY,Qantas,,lightgray
+498,CATHAY,Qatar,,lightgray
+499,CATHAY,Royal Air Morac,,lightgray
+500,CATHAY,Royal Jordanian,,lightgray
+501,CATHAY,Srilankan,,lightgray
+502,CATHAY,FIJI,,lightgray
+503,CATHAY,OMAN,,lightgray
+504,FINNAIR,Iberia,,lightgray
+505,FINNAIR,JAL,,lightgray
+506,FINNAIR,Malaysia,,lightgray
+507,FINNAIR,Qantas,,lightgray
+508,FINNAIR,Qatar,,lightgray
+509,FINNAIR,Royal Air Morac,,lightgray
+510,FINNAIR,Royal Jordanian,,lightgray
+511,FINNAIR,Srilankan,,lightgray
+512,FINNAIR,FIJI,,lightgray
+513,FINNAIR,OMAN,,lightgray
+514,FINNAIR,Vueling,,lightgray
+515,Iberia,JAL,,lightgray
+516,Iberia,Malaysia,,lightgray
+517,Iberia,Qantas,,lightgray
+518,Iberia,Qatar,,lightgray
+519,Iberia,Royal Air Morac,,lightgray
+520,Iberia,Royal Jordanian,,lightgray
+521,Iberia,Srilankan,,lightgray
+522,Iberia,FIJI,,lightgray
+523,Iberia,OMAN,,lightgray
+524,Iberia,Vueling,,lightgray
+525,JAL,Malaysia,,lightgray
+526,JAL,Qantas,,lightgray
+527,JAL,Qatar,,lightgray
+528,JAL,Royal Air Morac,,lightgray
+529,JAL,Royal Jordanian,,lightgray
+530,JAL,Srilankan,,lightgray
+531,JAL,FIJI,,lightgray
+532,JAL,OMAN,,lightgray
+533,JAL,S7,,lightgray
+534,JAL,AirFrance,,lightgray
+535,JAL,Bangkok,,lightgray
+536,JAL,China Eastern,,lightgray
+537,JAL,Emirates,,lightgray
+538,JAL,Hawaiian,,lightgray
+539,JAL,Korean,,lightgray
+540,JAL,LATAM,,lightgray
+541,JAL,Vistara,,lightgray
+542,JAL,Jetstar,,lightgray
+543,Malaysia,Qantas,,lightgray
+544,Malaysia,Qatar,,lightgray
+545,Malaysia,Royal Air Morac,,lightgray
+546,Malaysia,Royal Jordanian,,lightgray
+547,Malaysia,Srilankan,,lightgray
+548,Malaysia,FIJI,,lightgray
+549,Malaysia,OMAN,,lightgray
+550,Malaysia,Etihad,,lightgray
+551,Qantas,Qatar,,lightgray
+552,Qantas,Royal Air Morac,,lightgray
+553,Qantas,Royal Jordanian,,lightgray
+554,Qantas,Srilankan,,lightgray
+555,Qantas,FIJI,,lightgray
+556,Qantas,OMAN,,lightgray
+557,Qantas,China Airlines,,lightgray
+558,Qatar,Royal Air Morac,,lightgray
+559,Qatar,Royal Jordanian,,lightgray
+560,Qatar,Srilankan,,lightgray
+561,Qatar,FIJI,,lightgray
+562,Qatar,OMAN,,lightgray
+563,Qatar,Vueling,,lightgray
+564,Qatar,Virgin Australia,,lightgray
+565,Qatar,JetBlue,,lightgray
+566,Royal Air Morac,Royal Jordanian,,lightgray
+567,Royal Air Morac,Srilankan,,lightgray
+568,Royal Air Morac,FIJI,,lightgray
+569,Royal Air Morac,OMAN,,lightgray
+570,Royal Air Morac,Etihad,,lightgray
+571,Royal Jordanian,Srilankan,,lightgray
+572,Royal Jordanian,FIJI,,lightgray
+573,Royal Jordanian,OMAN,,lightgray
+574,Srilankan,FIJI,,lightgray
+575,Srilankan,OMAN,,lightgray
+576,Srilankan,Etihad,,lightgray
+577,FIJI,OMAN,,lightgray
+578,OMAN,Etihad,,lightgray
+579,AeroArgentina,AeroMexico,,lightgray
+580,AeroArgentina,AirEuropa,,lightgray
+581,AeroArgentina,AirFrance,,lightgray
+582,AeroArgentina,China Airlines,,lightgray
+583,AeroArgentina,China Eastern,,lightgray
+584,AeroArgentina,CZECH,,lightgray
+585,AeroArgentina,DELTA,,lightgray
+586,AeroArgentina,Garuda,,lightgray
+587,AeroArgentina,ITA,,lightgray
+588,AeroArgentina,Kenya,,lightgray
+589,AeroArgentina,KLM,,lightgray
+590,AeroArgentina,Korean,,lightgray
+591,AeroArgentina,MEA,,lightgray
+592,AeroArgentina,Saudia,,lightgray
+593,AeroArgentina,TARDM,,lightgray
+594,AeroArgentina,Vietnam,,lightgray
+595,AeroArgentina,Virgin Atlantic,,lightgray
+596,AeroArgentina,XIAMENAIR,,lightgray
+597,AeroMexico,AirEuropa,,lightgray
+598,AeroMexico,AirFrance,,lightgray
+599,AeroMexico,China Airlines,,lightgray
+600,AeroMexico,China Eastern,,lightgray
+601,AeroMexico,CZECH,,lightgray
+602,AeroMexico,DELTA,,lightgray
+603,AeroMexico,Garuda,,lightgray
+604,AeroMexico,ITA,,lightgray
+605,AeroMexico,Kenya,,lightgray
+606,AeroMexico,KLM,,lightgray
+607,AeroMexico,Korean,,lightgray
+608,AeroMexico,MEA,,lightgray
+609,AeroMexico,Saudia,,lightgray
+610,AeroMexico,TARDM,,lightgray
+611,AeroMexico,Vietnam,,lightgray
+612,AeroMexico,Virgin Atlantic,,lightgray
+613,AeroMexico,XIAMENAIR,,lightgray
+614,AirEuropa,AirFrance,,lightgray
+615,AirEuropa,China Airlines,,lightgray
+616,AirEuropa,China Eastern,,lightgray
+617,AirEuropa,CZECH,,lightgray
+618,AirEuropa,DELTA,,lightgray
+619,AirEuropa,Garuda,,lightgray
+620,AirEuropa,ITA,,lightgray
+621,AirEuropa,Kenya,,lightgray
+622,AirEuropa,KLM,,lightgray
+623,AirEuropa,Korean,,lightgray
+624,AirEuropa,MEA,,lightgray
+625,AirEuropa,Saudia,,lightgray
+626,AirEuropa,TARDM,,lightgray
+627,AirEuropa,Vietnam,,lightgray
+628,AirEuropa,Virgin Atlantic,,lightgray
+629,AirEuropa,XIAMENAIR,,lightgray
+630,AirEuropa,Etihad,,lightgray
+631,AirFrance,China Airlines,,lightgray
+632,AirFrance,China Eastern,,lightgray
+633,AirFrance,CZECH,,lightgray
+634,AirFrance,DELTA,,lightgray
+635,AirFrance,Garuda,,lightgray
+636,AirFrance,ITA,,lightgray
+637,AirFrance,Kenya,,lightgray
+638,AirFrance,KLM,,lightgray
+639,AirFrance,Korean,,lightgray
+640,AirFrance,MEA,,lightgray
+641,AirFrance,Saudia,,lightgray
+642,AirFrance,TARDM,,lightgray
+643,AirFrance,Vietnam,,lightgray
+644,AirFrance,Virgin Atlantic,,lightgray
+645,AirFrance,XIAMENAIR,,lightgray
+646,AirFrance,China Southern,,lightgray
+647,AirFrance,Etihad,,lightgray
+648,China Airlines,China Eastern,,lightgray
+649,China Airlines,CZECH,,lightgray
+650,China Airlines,DELTA,,lightgray
+651,China Airlines,Garuda,,lightgray
+652,China Airlines,ITA,,lightgray
+653,China Airlines,Kenya,,lightgray
+654,China Airlines,KLM,,lightgray
+655,China Airlines,Korean,,lightgray
+656,China Airlines,MEA,,lightgray
+657,China Airlines,Saudia,,lightgray
+658,China Airlines,TARDM,,lightgray
+659,China Airlines,Vietnam,,lightgray
+660,China Airlines,Virgin Atlantic,,lightgray
+661,China Airlines,XIAMENAIR,,lightgray
+662,China Airlines,China Southern,,lightgray
+663,China Eastern,CZECH,,lightgray
+664,China Eastern,DELTA,,lightgray
+665,China Eastern,Garuda,,lightgray
+666,China Eastern,ITA,,lightgray
+667,China Eastern,Kenya,,lightgray
+668,China Eastern,KLM,,lightgray
+669,China Eastern,Korean,,lightgray
+670,China Eastern,MEA,,lightgray
+671,China Eastern,Saudia,,lightgray
+672,China Eastern,TARDM,,lightgray
+673,China Eastern,Vietnam,,lightgray
+674,China Eastern,Virgin Atlantic,,lightgray
+675,China Eastern,XIAMENAIR,,lightgray
+676,CZECH,DELTA,,lightgray
+677,CZECH,Garuda,,lightgray
+678,CZECH,ITA,,lightgray
+679,CZECH,Kenya,,lightgray
+680,CZECH,KLM,,lightgray
+681,CZECH,Korean,,lightgray
+682,CZECH,MEA,,lightgray
+683,CZECH,Saudia,,lightgray
+684,CZECH,TARDM,,lightgray
+685,CZECH,Vietnam,,lightgray
+686,CZECH,Virgin Atlantic,,lightgray
+687,CZECH,XIAMENAIR,,lightgray
+688,CZECH,China Southern,,lightgray
+689,DELTA,Garuda,,lightgray
+690,DELTA,ITA,,lightgray
+691,DELTA,Kenya,,lightgray
+692,DELTA,KLM,,lightgray
+693,DELTA,Korean,,lightgray
+694,DELTA,MEA,,lightgray
+695,DELTA,Saudia,,lightgray
+696,DELTA,TARDM,,lightgray
+697,DELTA,Vietnam,,lightgray
+698,DELTA,Virgin Atlantic,,lightgray
+699,DELTA,XIAMENAIR,,lightgray
+700,DELTA,China Southern,,lightgray
+701,Garuda,ITA,,lightgray
+702,Garuda,Kenya,,lightgray
+703,Garuda,KLM,,lightgray
+704,Garuda,Korean,,lightgray
+705,Garuda,MEA,,lightgray
+706,Garuda,Saudia,,lightgray
+707,Garuda,TARDM,,lightgray
+708,Garuda,Vietnam,,lightgray
+709,Garuda,Virgin Atlantic,,lightgray
+710,Garuda,XIAMENAIR,,lightgray
+711,Garuda,Etihad,,lightgray
+712,ITA,Kenya,,lightgray
+713,ITA,KLM,,lightgray
+714,ITA,Korean,,lightgray
+715,ITA,MEA,,lightgray
+716,ITA,Saudia,,lightgray
+717,ITA,TARDM,,lightgray
+718,ITA,Vietnam,,lightgray
+719,ITA,Virgin Atlantic,,lightgray
+720,ITA,XIAMENAIR,,lightgray
+721,Kenya,KLM,,lightgray
+722,Kenya,Korean,,lightgray
+723,Kenya,MEA,,lightgray
+724,Kenya,Saudia,,lightgray
+725,Kenya,TARDM,,lightgray
+726,Kenya,Vietnam,,lightgray
+727,Kenya,Virgin Atlantic,,lightgray
+728,Kenya,XIAMENAIR,,lightgray
+729,KLM,Korean,,lightgray
+730,KLM,MEA,,lightgray
+731,KLM,Saudia,,lightgray
+732,KLM,TARDM,,lightgray
+733,KLM,Vietnam,,lightgray
+734,KLM,Virgin Atlantic,,lightgray
+735,KLM,XIAMENAIR,,lightgray
+736,KLM,Etihad,,lightgray
+737,Korean,MEA,,lightgray
+738,Korean,Saudia,,lightgray
+739,Korean,TARDM,,lightgray
+740,Korean,Vietnam,,lightgray
+741,Korean,Virgin Atlantic,,lightgray
+742,Korean,XIAMENAIR,,lightgray
+743,Korean,China Southern,,lightgray
+744,Korean,Etihad,,lightgray
+745,MEA,Saudia,,lightgray
+746,MEA,TARDM,,lightgray
+747,MEA,Vietnam,,lightgray
+748,MEA,Virgin Atlantic,,lightgray
+749,MEA,XIAMENAIR,,lightgray
+750,MEA,China Southern,,lightgray
+751,Saudia,TARDM,,lightgray
+752,Saudia,Vietnam,,lightgray
+753,Saudia,Virgin Atlantic,,lightgray
+754,Saudia,XIAMENAIR,,lightgray
+755,Saudia,China Southern,,lightgray
+756,Saudia,Etihad,,lightgray
+757,TARDM,Vietnam,,lightgray
+758,TARDM,Virgin Atlantic,,lightgray
+759,TARDM,XIAMENAIR,,lightgray
+760,Vietnam,Virgin Atlantic,,lightgray
+761,Vietnam,XIAMENAIR,,lightgray
+762,Vietnam,China Southern,,lightgray
+763,Virgin Atlantic,XIAMENAIR,,lightgray
+764,Virgin Atlantic,Hawaiian,,lightgray
+765,Virgin Atlantic,Indigo,,lightgray
+766,Virgin Atlantic,LATAM,,lightgray
+767,Virgin Atlantic,South African,,lightgray
+768,Virgin Atlantic,Virgin Australia,,lightgray
+769,XIAMENAIR,China Southern,,lightgray
+770,Israel,Etihad,,lightgray
+771,Hainan,Virgin Australia,,lightgray
+772,Hainan,Etihad,,lightgray
+773,Icelandair,JetBlue,,lightgray
+774,Hawaiian,Virgin Australia,,lightgray
+775,Hawaiian,JetBlue,,lightgray
+776,South African,Virgin Australia,,lightgray
+777,South African,JetBlue,,lightgray
+778,Virgin Australia,Etihad,,lightgray
+779,Virgin Australia,HongKong,,lightgray
+780,Virgin Australia,Capital,,lightgray
+781,Virgin Australia,Tianjin,,lightgray
+782,Virgin Australia,LINK,,lightgray
+783,Virgin Australia,PELICAN,,lightgray
+784,Etihad,Air Serbia,,lightgray
+785,Etihad,Gulf,,lightgray
+786,Etihad,JetBlue,,lightgray
+787,JetBlue,JSX,,lightgray
+788,JetBlue,Silver,,lightgray
+789,China Southern,AeroFlot,,lightgray
+790,China Southern,Sichuan,,lightgray

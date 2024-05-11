@@ -26,6 +26,7 @@ VAs=["Qatar","ANA","Hawaiian","Air Canada","United","Singapore","Virgin Atlantic
 JB=["Hawaiian","Icelandair","JSX","Qatar","Silver","Singapore","South African"]
 JAL=["S7",'Srilankan',"AirFrance","Bangkok",'China Eastern','Emirates',"Hawaiian","Korean","LATAM","Vistara","Jetstar"]
 Avios=["Aer Lingus","Vueling","Qatar","Iberia","British","FINNAIR"]
+CS=["Vietnam","Korean","XIAMENAIR","AirFrance","DELTA","MEA","CZECH","China Airlines","Saudia","AeroFlot","American","Sichuan"]
 
 g= nx.Graph()
 #Colors={"A":"#6676F5","B":"#F5F46D","Ch":"#64D5D9","Ci":"#E498F5","Co":"#D16F68"}
@@ -63,31 +64,34 @@ for i in range(len(Avios)-1):
 
 for i in range(len(AS)):
   g.add_edge("Alaska",AS[i],color="lightgray")
-
 for i in range(len(VA)):
   g.add_edge("Virgin Atlantic",VA[i],color="lightgray")
-
 for i in range(len(VAs)):
   g.add_edge("Virgin Australia",VAs[i],color="lightgray")
 for i in range(len(JB)):
   g.add_edge("JetBlue",JB[i],color="lightgray")
 for i in range(len(JAL)):
   g.add_edge("JAL",JAL[i],color="lightgray")
+for i in range(len(CS)):
+  g.add_edge("China Southern",CS[i],color="lightgray")
+for i in range(len(ET)):
+  g.add_edge("Etihad",ET[i],color="lightgray")
+g.add_edge("China Airlines","Qantas",color="lightgray")
 
 for i in AMEX:
-  g.add_edge("A",i,color=Colors["A"])
+  g.add_edge("A",i,color=Colors["A"],title="1:1")
 for i in Citi:
-  g.add_edge("Ci",i,color=Colors["Ci"])
+  g.add_edge("Ci",i,color=Colors["Ci"],title="1:1")
 for i in Bilt:
-  g.add_edge("B",i,color=Colors["B"])
+  g.add_edge("B",i,color=Colors["B"],title="1:1")
 for i in Chase:
-  g.add_edge("Ch",i,color=Colors["Ch"])
+  g.add_edge("Ch",i,color=Colors["Ch"],title="1:1")
 for i in CO:
-  g.add_edge("Co",i,color=Colors["Co"])
+  g.add_edge("Co",i,color=Colors["Co"],title="1:1")
 for i in Marriott:
-  g.add_edge("M",i,color=Colors["M"])
+  g.add_edge("M",i,color=Colors["M"],title="3:1")
 for i in W:
-  g.add_edge("W",i,color=Colors["W"])
+  g.add_edge("W",i,color=Colors["W"],title="1:1")
 ##find "None"
 h=dict(g.nodes(data="group"))
 k,v=list(h.keys()),list(h.values())
@@ -98,7 +102,7 @@ for i in range(12,len(k)):
 
 ## Generate edge title entry
 labels=None
-nx.set_edge_attributes(g, labels, "title")
+#nx.set_edge_attributes(g, labels, "title")
 df=nx.to_pandas_edgelist(g)
 df.to_csv('out.csv')
 
