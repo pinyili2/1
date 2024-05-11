@@ -1,93 +1,102 @@
-,label,color,size,shape,group
-A,AMEX MR,#6676F5,15,diamond,
-B,Bilt,#F5F46D,15,diamond,
-Ci,Citi,#E498F5,15,diamond,
-Ch,Chase,#64D5D9,15,diamond,
-Co,Capital One,#D16F68,15,diamond,
-Aegean,,,10,,star
-Air Canada,,,10,,star
-Air China,,,10,,star
-Air India,,,10,,star
-Air New Zealand,,,10,,star
-ANA,,,10,,star
-ASIANA,,,10,,star
-Austrian,,,10,,star
-Lifemiles,,,10,,star
-Brussels,,,10,,star
-Copa,,,10,,star
-CROATIA,,,10,,star
-EGYPTAIR,,,10,,star
-Ethiopian,,,10,,star
-EVA,,,10,,star
-LOT Polish,,,10,,star
-Lufthansa,,,10,,star
-SAS,,,10,,star
-Shenzhen,,,10,,star
-Singapore,,,10,,star
-Swiss,,,10,,star
-TAP,,,10,,star
-Thai,,,10,,star
-Turksih,,,10,,star
-United,,,10,,star
-Alaska,,,10,,one
-American,,,10,,one
-British,,,10,,one
-CATHAY,,,10,,one
-FINAIR,,,10,,one
-Iberia,,,10,,one
-JAL,,,10,,one
-Malaysia,,,10,,one
-Qantas,,,10,,one
-Qatar,,,10,,one
-Royal Air Morac,,,10,,one
-Royal Jordanian,,,10,,one
-Srilankan,,,10,,one
-FIJI,,,10,,one
-OMAN,,,10,,one
-AeroArgentina,,,10,,sky
-AeroMexico,,,10,,sky
-AirEuropa,,,10,,sky
-AirFrance,,,10,,sky
-China Airlines,,,10,,sky
-China Eastern,,,10,,sky
-CZECH,,,10,,sky
-DELTA,,,10,,sky
-Garuda,,,10,,sky
-ITA,,,10,,sky
-Kenya,,,10,,sky
-KLM,,,10,,sky
-Korean Air,,,10,,sky
-MEA,,,10,,sky
-Saudia,,,10,,sky
-TARDM,,,10,,sky
-Vietnam,,,10,,sky
-Virgin Atlantic,,,10,,sky
-XIAMENAIR,,,10,,sky
-Aer Lingus,,,10,,alone
-Air Tahiti Nui,,,10,,alone
-Condor,,,10,,alone
-Israel,,,10,,alone
-Hainan,,,10,,alone
-Icelandair,,,10,,alone
-LATAM,,,10,,alone
-Ravn Alaska,,,10,,alone
-STARLUX,,,10,,alone
-Hawaiian,,,10,,alone
-Indigo,,,10,,alone
-South African,,,10,,alone
-Virgin Australia,,,10,,alone
-Etihad,,,10,,alone
-HongKong,,,10,,alone
-Capital,,,10,,alone
-Tianjin,,,10,,alone
-LINK,,,10,,alone
-PELICAN,,,10,,alone
-JetBlue,,,10,,alone
-JSX,,,10,,alone
-Silver,,,10,,alone
-S7,,,10,,alone
-Bangkok,,,10,,alone
-Emirates,,,10,,alone
-Vistara,,,10,,alone
-Jetstar,,,10,,alone
-Southwest,,,10,,alone
+,color,size,image,id,label,shape,group
+0,#3EADA5,25,images/Amex.jpg,A,AMEX MR,diamond,
+1,#FFEB98,25,,M,Marriott Bonvoy,diamond,
+2,,10,,AirFrance,AirFrance,dot,5
+3,,10,,KLM,KLM,dot,5
+4,,10,,Air Canada,Air Canada,dot,1
+5,,10,,ANA,ANA,dot,1
+6,,10,,Lifemiles,Lifemiles,dot,1
+7,,10,,British,British,dot,2
+8,,10,,Virgin Atlantic,Virgin Atlantic,dot,5
+9,,10,,Aer Lingus,Aer Lingus,dot,alone
+10,,10,,AeroMexico,AeroMexico,dot,5
+11,,10,,CATHAY,CATHAY,dot,2
+12,,10,,DELTA,DELTA,dot,5
+13,,10,,Emirates,Emirates,dot,alone
+14,,10,,Hawaiian,Hawaiian,dot,alone
+15,,10,,Iberia,Iberia,dot,2
+16,,10,,JetBlue,JetBlue,dot,alone
+17,,10,,Qantas,Qantas,dot,2
+18,,10,,Qatar,Qatar,dot,2
+19,,10,,Singapore,Singapore,dot,1
+20,#7D7D7D,25,images/Bilt.jpg,B,Bilt,diamond,
+21,,10,,Alaska,Alaska,dot,2
+22,,10,,American,American,dot,2
+23,,10,,United,United,dot,1
+24,,10,,Turkish,Turkish,dot,1
+25,#E09233,25,images/Citi.jpg,Ci,Citi TYP,diamond,
+26,,10,,Etihad,Etihad,dot,alone
+27,,10,,EVA,EVA,dot,1
+28,,10,,Thai,Thai,dot,1
+29,#4478BC,25,images/Chase.jpg,Ch,Chase UR,diamond,
+30,,10,,Southwest,Southwest,dot,alone
+31,#284278,25,images/Capital.jpg,Co,Capital One,diamond,
+32,,10,,FINNAIR,FINNAIR,dot,2
+33,,10,,TAP,TAP,dot,1
+34,,10,,Aegean,Aegean,dot,1
+35,,10,,Air China,Air China,dot,1
+36,,10,,ASIANA,ASIANA,dot,1
+37,,10,,China Southern,China Southern,dot,alone
+38,,10,,Copa,Copa,dot,1
+39,,10,,FRONTIER,FRONTIER,dot,alone
+40,,10,,Hainan,Hainan,dot,alone
+41,,10,,InterMiles,InterMiles,dot,alone
+42,,10,,JAL,JAL,dot,2
+43,,10,,Korean,Korean,dot,5
+44,,10,,LATAM,LATAM,dot,alone
+45,,10,,Saudia,Saudia,dot,5
+46,,10,,Virgin Australia,Virgin Australia,dot,alone
+47,,10,,Vueling,Vueling,dot,alone
+48,#AA2D35,25,,W,Wells Fargo,diamond,
+49,,10,,Air India,Air India,dot,1
+50,,10,,Air New Zealand,Air New Zealand,dot,1
+51,,10,,Austrian,Austrian,dot,1
+52,,10,,Brussels,Brussels,dot,1
+53,,10,,CROATIA,CROATIA,dot,1
+54,,10,,EGYPTAIR,EGYPTAIR,dot,1
+55,,10,,Ethiopian,Ethiopian,dot,1
+56,,10,,LOT Polish,LOT Polish,dot,1
+57,,10,,Lufthansa,Lufthansa,dot,1
+58,,10,,SAS,SAS,dot,1
+59,,10,,Shenzhen,Shenzhen,dot,1
+60,,10,,Swiss,Swiss,dot,1
+61,,10,,Malaysia,Malaysia,dot,2
+62,,10,,Royal Air Morac,Royal Air Morac,dot,2
+63,,10,,Royal Jordanian,Royal Jordanian,dot,2
+64,,10,,Srilankan,Srilankan,dot,2
+65,,10,,FIJI,FIJI,dot,2
+66,,10,,OMAN,OMAN,dot,2
+67,,10,,XD,XD,dot,2
+68,,10,,Air Tahiti Nui,Air Tahiti Nui,dot,alone
+69,,10,,Condor,Condor,dot,alone
+70,,10,,Israel,Israel,dot,alone
+71,,10,,Icelandair,Icelandair,dot,alone
+72,,10,,Ravn Alaska,Ravn Alaska,dot,alone
+73,,10,,STARLUX,STARLUX,dot,alone
+74,,10,,S7,S7,dot,alone
+75,,10,,Bangkok,Bangkok,dot,alone
+76,,10,,China Eastern,China Eastern,dot,5
+77,,10,,Vistara,Vistara,dot,alone
+78,,10,,Jetstar,Jetstar,dot,alone
+79,,10,,China Airlines,China Airlines,dot,5
+80,,10,,AeroArgentina,AeroArgentina,dot,5
+81,,10,,AirEuropa,AirEuropa,dot,5
+82,,10,,CZECH,CZECH,dot,5
+83,,10,,Garuda,Garuda,dot,5
+84,,10,,ITA,ITA,dot,5
+85,,10,,Kenya,Kenya,dot,5
+86,,10,,MEA,MEA,dot,5
+87,,10,,TARDM,TARDM,dot,5
+88,,10,,Vietnam,Vietnam,dot,5
+89,,10,,XIAMENAIR,XIAMENAIR,dot,5
+90,,10,,Indigo,Indigo,dot,alone
+91,,10,,South African,South African,dot,alone
+92,,10,,HongKong,HongKong,dot,alone
+93,,10,,Capital,Capital,dot,alone
+94,,10,,Tianjin,Tianjin,dot,alone
+95,,10,,LINK,LINK,dot,alone
+96,,10,,PELICAN,PELICAN,dot,alone
+97,,10,,JSX,JSX,dot,alone
+98,,10,,Silver,Silver,dot,alone
+99,,10,,AeroFlot,AeroFlot,dot,alone
+100,,10,,Sichuan,Sichuan,dot,alone

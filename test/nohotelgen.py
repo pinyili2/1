@@ -7,12 +7,12 @@ import networkx as nx
 
 #Alliance
 star=["Aegean","Air Canada","Air China","Air India","Air New Zealand", "ANA", "ASIANA","Austrian","Lifemiles","Brussels","Copa","CROATIA","EGYPTAIR","Ethiopian","EVA","LOT Polish","Lufthansa","SAS","Shenzhen","Singapore","Swiss","TAP","Thai","Turkish","United"]
-one=["Alaska","American","British","CATHAY","FINNAIR","Iberia","JAL","Malaysia","Qantas","Qatar","Royal Air Morac","Royal Jordanian","Srilankan","FIJI","OMAN"]
+one=["Alaska","American","British","CATHAY","FINNAIR","Iberia","JAL","Malaysia","Qantas","Qatar","Royal Air Morac","Royal Jordanian","Srilankan","FIJI","OMAN","XD"]
 sky=["AeroArgentina","AeroMexico","AirEuropa","AirFrance","China Airlines","China Eastern","CZECH","DELTA","Garuda","ITA","Kenya","KLM","Korean","MEA","Saudia","TARDM","Vietnam","Virgin Atlantic","XIAMENAIR"]
 #hotel=["Hyatt","IHG","Hilton","Choice","Wyndham","Accor"]
 
 #Credit card
-AMEX=["M","Aer Lingus","AirFrance","KLM","Air Canada","ANA","Lifemiles","British","Virgin Atlantic","AeroMexico","CATHAY","DELTA","Emirates","Hawaiian","Iberia","JetBlue","Qantas","Qatar","Singapore"]
+AMEX=["M","AirFrance","KLM","Air Canada","ANA","Lifemiles","British","Virgin Atlantic","Aer Lingus","AeroMexico","CATHAY","DELTA","Emirates","Hawaiian","Iberia","JetBlue","Qantas","Qatar","Singapore"]
 Citi=["AeroMexico","Lifemiles","CATHAY","Emirates","Etihad","EVA","AirFrance","KLM","JetBlue","Qantas","Qatar","Singapore","Thai","Turkish","Virgin Atlantic"]
 Chase=["M","Aer Lingus","Air Canada","British","AirFrance","KLM","Iberia","Singapore","JetBlue","Southwest","United","Virgin Atlantic"]
 Bilt=["M","Alaska","American","AirFrance","KLM","Air Canada","United","Virgin Atlantic","Turkish","British","CATHAY","Lifemiles","Iberia","Aer Lingus","Emirates","Hawaiian"]
@@ -41,9 +41,9 @@ g.add_node("M",label="Marriott Bonvoy",color=Colors["M"],size=25,shape=fig)
 g.add_node("W",label="Wells Fargo",color=Colors["W"],size=25,shape=fig)
 
 g.add_node("Aer Lingus",group="alone")
-g.add_nodes_from(star,group="star")
-g.add_nodes_from(one,group="one")
-g.add_nodes_from(sky,group="sky")
+g.add_nodes_from(star,group=1)
+g.add_nodes_from(one,group=2)
+g.add_nodes_from(sky,group=5)
 
 #g.add_nodes_from(hotel,group="hotel")
 

@@ -1,14 +1,14 @@
 ,color,size,image,id,label,shape,group
 0,#3EADA5,25,images/Amex.jpg,A,AMEX MR,diamond,
 1,#FFEB98,25,,M,Marriott Bonvoy,diamond,
-2,,10,,AirFrance,AirFrance,dot,sky
-3,,10,,KLM,KLM,dot,sky
-4,,10,,Air Canada,Air Canada,dot,star
-5,,10,,ANA,ANA,dot,star
-6,,10,,Lifemiles,Lifemiles,dot,star
-7,,10,,British,British,dot,one
-8,,10,,Virgin Atlantic,Virgin Atlantic,dot,sky
-9,,10,,Aer Lingus,Aer Lingus,dot,alone
+2,,10,,Aer Lingus,Aer Lingus,dot,alone
+3,,10,,AirFrance,AirFrance,dot,sky
+4,,10,,KLM,KLM,dot,sky
+5,,10,,Air Canada,Air Canada,dot,star
+6,,10,,ANA,ANA,dot,star
+7,,10,,Lifemiles,Lifemiles,dot,star
+8,,10,,British,British,dot,one
+9,,10,,Virgin Atlantic,Virgin Atlantic,dot,sky
 10,,10,,AeroMexico,AeroMexico,dot,sky
 11,,10,,CATHAY,CATHAY,dot,one
 12,,10,,DELTA,DELTA,dot,sky
@@ -95,9 +95,7 @@
 93,,10,,Tianjin,Tianjin,dot,alone
 94,,10,,LINK,LINK,dot,alone
 95,,10,,PELICAN,PELICAN,dot,alone
-96,,10,,Air Serbia,Air Serbia,dot,alone
-97,,10,,Gulf,Gulf,dot,alone
-98,,10,,JSX,JSX,dot,alone
-99,,10,,Silver,Silver,dot,alone
-100,,10,,AeroFlot,AeroFlot,dot,alone
-101,,10,,Sichuan,Sichuan,dot,alone
+96,,10,,JSX,JSX,dot,alone
+97,,10,,Silver,Silver,dot,alone
+98,,10,,AeroFlot,AeroFlot,dot,alone
+99,,10,,Sichuan,Sichuan,dot,alone
