@@ -25,6 +25,7 @@ VA=["Air New Zealand","ANA","Hawaiian","Indigo","LATAM","SAS","Singapore","South
 VAs=["Qatar","ANA","Hawaiian","Air Canada","United","Singapore","Virgin Atlantic",'Etihad',"South African",'Hainan',"HongKong","Capital","Tianjin","LINK","PELICAN"]
 JB=["Hawaiian","Icelandair","JSX","Qatar","Silver","Singapore","South African"]
 JAL=["S7",'Srilankan',"AirFrance","Bangkok",'China Eastern','Emirates',"Hawaiian","Korean","LATAM","Vistara","Jetstar"]
+ET=["Air New Zealand","Air Canada","Air Serbia","AirEuropa","AirFrance","ANA","American","ASIANA","Brussels","Israel","Korean","Garuda","Gulf","Hainan","JetBlue","KLM","Malaysia","OMAN","Royal Air Morac","Saudia","SAS","Srilankan","Virgin Australia"]
 Avios=["Aer Lingus","Vueling","Qatar","Iberia","British","FINNAIR"]
 CS=["Vietnam","Korean","XIAMENAIR","AirFrance","DELTA","MEA","CZECH","China Airlines","Saudia","AeroFlot","American","Sichuan"]
 
@@ -74,8 +75,8 @@ for i in range(len(JAL)):
   g.add_edge("JAL",JAL[i],color="lightgray")
 for i in range(len(CS)):
   g.add_edge("China Southern",CS[i],color="lightgray")
-#for i in range(len(ET)):
-#  g.add_edge("Etihad",ET[i],color="lightgray")
+for i in range(len(ET)):
+  g.add_edge("Etihad",ET[i],color="lightgray")
 g.add_edge("China Airlines","Qantas",color="lightgray")
 
 for i in AMEX:
